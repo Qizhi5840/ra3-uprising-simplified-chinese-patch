@@ -1,10 +1,10 @@
 [APPDATA:PICTUREFOLDER]
 Value=Red Alert 3: Uprising Screenshots
-Value=红色警戒3：起义时刻画面截图
+Value=红色警戒3:起义时刻画面截图
 
 [APT:1V1RANKLABEL]
 Value=1v1 Rank:
-Value=1v1 排名：
+Value=1v1 排名:
 
 [APT:2DSHADOWS]
 Value=2D Shadows
@@ -12,7 +12,7 @@ Value=2D 阴影
 
 [APT:2V2RANKLABEL]
 Value=2v2 Rank:
-Value=2v2 排名：
+Value=2v2 排名:
 
 [APT:3DSHADOWS]
 Value=3D Shadows
@@ -308,7 +308,7 @@ Value=盟军
 
 [APT:ALLIES_FACTION_DESCRIPTION]
 Value=TOUGH REFORM: Subdue the rebellious warlords of the Empire of the Rising Sun to bring about a lasting peace in the leaderless and war-torn nation that once stood against the world.
-Value=强力改革：镇压旭日帝国叛乱的军阀，为这个曾经对抗世界、如今群龙无首且饱受战乱的国家带来持久的和平。
+Value=强力改革:镇压旭日帝国叛乱的军阀，为这个曾经对抗世界、如今群龙无首且饱受战乱的国家带来持久的和平。
 
 [APT:ALLIES_MENUBUTTON]
 Value=Allies
@@ -428,7 +428,7 @@ Value=自动仲裁类型
 
 [APT:AUTOSAVEOVERWRITEWARNING]
 Value=Warning: Starting a new campaign will overwrite your previous campaign autosave file. Proceed?
-Value=警告：开始新战役将会覆盖您先前的战役自动存档。继续吗？
+Value=警告:开始新战役将会覆盖您先前的战役自动存档。继续吗？
 
 [APT:AUTOSAVEOVERWRITEWARNINGTITLE]
 Value=Autosave Overwrite
@@ -468,7 +468,7 @@ Value=战斗类型
 
 [APT:BESTWINSTREAKCOLON]
 Value=Best Win Streak:
-Value=最高连胜次数：
+Value=最高连胜次数:
 
 [APT:BIRTHDATETITLE]
 Value=BIRTHDATE
@@ -520,7 +520,7 @@ Value=亮度
 
 [APT:BROADCASTDESC]
 Value=Broadcast Description:
-Value=转播说明：
+Value=转播说明:
 
 [APT:BROADCASTGAME]
 Value=Broadcast Game
@@ -528,7 +528,7 @@ Value=转播游戏
 
 [APT:BROADCASTNAME]
 Value=Broadcast Name:
-Value=转播名称：
+Value=转播名称:
 
 [APT:BUDDYINVITEJOININGTEXT]
 Value=Joining game with %s.
@@ -616,7 +616,7 @@ Value=战役歼灭的敌人
 
 [APT:CAMPAIGNFAILEDMISSION]
 Value=Failed Mission:
-Value=战役任务失败：
+Value=战役任务失败:
 
 [APT:CAMPAIGNMENU_BACKBUTTON]
 Value=Back
@@ -652,7 +652,7 @@ ValueLine3=要参加合作模式，选择位于右上方的通讯星按钮然后
 
 [APT:CAMPAIGNNEXTMISSION]
 Value=Next Mission:
-Value=下一个任务：
+Value=下一个任务:
 
 [APT:CAMPAIGNSCORE]
 Value=Campaign Score
@@ -668,7 +668,7 @@ Value=旭日帝国真的是命中注定要统治一切吗？
 
 [APT:CAMPAIGNSCREEN_SEQUENCEWARNING]
 Value=Note: Although the mini-campaigns may be played in any order, the Soviet mini-campaign is the recommended starting point.
-Value=请注意：尽管您可以按任意顺序进行迷你战役，但推荐以苏联迷你战役作为起点。
+Value=请注意:尽管您可以按任意顺序进行迷你战役，但推荐以苏联迷你战役作为起点。
 
 [APT:CAMPAIGNSCREEN_SOVIET]
 Value=What will become of the Soviet Union, now that its leaders have desperately altered the past?
@@ -696,15 +696,15 @@ Value=取消
 
 [APT:CAREERDISCONNECTSCOLON]
 Value=Career Disconnects:
-Value=历史断线次数：
+Value=历史断线次数:
 
 [APT:CAREERLADDERGAMES1VS1COLON]
 Value=Career Games Played On 1 vs 1 Ladder:
-Value=历史 1v1 排名赛次数：
+Value=历史 1v1 排名赛次数:
 
 [APT:CAREERLADDERGAMES2VS2COLON]
 Value=Career Games Played On 2 vs 2 Ladder:
-Value=历史 2v2 排名赛次数：
+Value=历史 2v2 排名赛次数:
 
 [APT:CHANGEPLAYERPROFILE]
 Value=Change Player Profile
@@ -756,7 +756,7 @@ Value=交流
 
 [APT:CLAN]
 Value=Clan:
-Value=战队：
+Value=战队:
 
 [APT:CLAN1V1]
 Value=CLAN 1v1
@@ -940,7 +940,7 @@ Value=指挥官
 
 [APT:COMMANDERPROFILENAME]
 Value=Active Profile: Commander %s
-Value=当前用户：指挥官%s
+Value=当前用户:指挥官%s
 
 [APT:COMMANDERS]
 Value=COMMAND TEAM
@@ -1384,19 +1384,19 @@ Value=加载游戏时发生严重错误。
 
 [APT:CURRENTLEVEL]
 Value=Level:
-Value=等级：
+Value=等级:
 
 [APT:CURRENTLEVELFORMAT]
 Value=Level: %s
-Value=等级：%s
+Value=等级:%s
 
 [APT:CURRENTLEVELNUMFORMAT]
 Value=Level: %d
-Value=等级：%d
+Value=等级:%d
 
 [APT:CURRENTLOSSSTREAKCOLON]
 Value=Current Loss Streak:
-Value=目前连败次数：
+Value=目前连败次数:
 
 [APT:CURRENTMAPNAME]
 Value=Current Map Name
@@ -1408,15 +1408,15 @@ Value=目前等级
 
 [APT:CURRENTRANKSTRINGFORMAT]
 Value=Current Rank: %s
-Value=目前排名：%s
+Value=目前排名:%s
 
 [APT:CURRENTSIDE]
 Value=Current Army:
-Value=目前军队：
+Value=目前军队:
 
 [APT:CURRENTSTREAKSTRFORMAT]
 Value=Current %s Streak:
-Value=目前连%s胜次数：
+Value=目前连%s胜次数:
 
 [APT:CURRENTTEAM]
 Value=Team %d
@@ -1428,7 +1428,7 @@ Value=没有队伍
 
 [APT:CURRENTWINSTREAKCOLON]
 Value=Current Win Streak:
-Value=目前连胜次数：
+Value=目前连胜次数:
 
 [APT:CURSORMAGNETISM]
 Value=Cursor Magnetism
@@ -1696,7 +1696,7 @@ Value=请输入您的名字
 
 [APT:ERRORCREATINGPROFILE]
 Value=Error creating profile - the profile name you entered already exists. Please try a different profile name.
-Value=创建用户失败：您输入的名称已存在。请使用其他名称。
+Value=创建用户失败:您输入的名称已存在。请使用其他名称。
 
 [APT:ERROREAX3OFF]
 Value=Error switching 3D sound providers.
@@ -1704,7 +1704,7 @@ Value=切换3D音效提供商时发生错误。
 
 [APT:ERROREAX3ON]
 Value=Could not initialize EAX3. Please check the following:Your sound card fully supports EAX3Your sound card is properly connected and operating properlyYou have the latest sound driversReverting to software 3D support
-Value=无法初始化EAX3。请检查以下事项：声卡是否完全支持EAX3；声卡是否正常连接并正常工作；是否已安装最新声卡驱动。正在恢复为软件3D支持。
+Value=无法初始化EAX3。请检查以下事项:声卡是否完全支持EAX3；声卡是否正常连接并正常工作；是否已安装最新声卡驱动。正在恢复为软件3D支持。
 
 [APT:ERRORLOADINGGAME]
 Value=Error loading game.
@@ -1724,7 +1724,7 @@ Value=保存录像时发生错误。
 
 [APT:ESRBNOTICE]
 Value=ESRB NOTICE: Game Experience May Change During Online Play
-Value=ESRB 告示：进行在线游戏将会带来不同的游戏体验
+Value=ESRB 告示:进行在线游戏将会带来不同的游戏体验
 
 [APT:EXCELLENTCONNECTION]
 Value=Excellent Connection
@@ -1792,7 +1792,7 @@ Value=偏好阵营
 
 [APT:FAVORITESIDECOLON]
 Value=Favorite Army:
-Value=偏好军队：
+Value=偏好军队:
 
 [APT:FEBRUARY]
 Value=FEBRUARY
@@ -2232,7 +2232,7 @@ Value=战队名号
 
 [APT:HEADERCLANS]
 Value=Enter Clan Tag:
-Value=输入战队名号：
+Value=输入战队名号:
 
 [APT:HEADERCOOPSTAGING]
 Value=CO-OP STAGING AREA
@@ -2332,11 +2332,11 @@ Value=提高音效
 
 [APT:HIGHESTRANK2COLON]
 Value=Highest Rank on 2 vs 2 Ladder:
-Value=2v2 排名赛最高排名：
+Value=2v2 排名赛最高排名:
 
 [APT:HIGHESTRANKCOLON]
 Value=Highest Rank on 1 vs 1 Ladder:
-Value=1v1 排名赛最高排名：
+Value=1v1 排名赛最高排名:
 
 [APT:HIGHRESOURCESNUM]
 Value=High
@@ -2464,7 +2464,7 @@ Value=情报数据库
 
 [APT:INVALIDPROFILENAME]
 Value=Invalid profile name. Please choose a name that does not use profanity or any of the following characters: / \ : *  ? " < > | $
-Value=无效的用户名称。您输入的用户名称不能包含下列字符：/ \ : *  ? " < > |
+Value=无效的用户名称。您输入的用户名称不能包含下列字符:/ \ : *  ? " < > |
 
 [APT:INVERTCAMERAROTATE]
 Value=Invert Camera Rotation
@@ -2500,7 +2500,7 @@ Value=帝国
 
 [APT:JAPANESE_FACTION_DESCRIPTION]
 Value=WOUNDED WOLF: Rally the patriotic defense forces of the fallen Empire against its opportunistic enemies for the sake of your homeland, your honor, and the late Emperor's legacy.
-Value=负伤之狼：为了你的故土、你的荣耀，以及先帝的遗志，集结覆灭帝国中的爱国防御力量，抵御那些伺机而动的敌人。
+Value=负伤之狼:为了你的故土、你的荣耀，以及先帝的遗志，集结覆灭帝国中的爱国防御力量，抵御那些伺机而动的敌人。
 
 [APT:JAPANESEEMPIRE_MENUBUTTON]
 Value=Rising Sun
@@ -2540,7 +2540,7 @@ Value=踢出
 
 [APT:LADDER]
 Value=Ladder:
-Value=排名赛：
+Value=排名赛:
 
 [APT:LADDERHEADER]
 Value=Ladder
@@ -2688,7 +2688,7 @@ Value=大厅房间
 
 [APT:LOCKED_CAMPAIGN_DESCRIPTION]
 Value=MINI-CAMPAIGN LOCKED: Complete the first mission of the Soviet mini-campaign to unlock this campaign.
-Value=迷你战役锁定：完成苏联迷你战役的第一个任务即可解锁此战役。
+Value=迷你战役锁定:完成苏联迷你战役的第一个任务即可解锁此战役。
 
 [APT:LOGIN]
 Value=LOG IN
@@ -2712,7 +2712,7 @@ Value=战败
 
 [APT:LOSSES]
 Value=Losses:
-Value=战败：
+Value=战败:
 
 [APT:LOW]
 Value=Low
@@ -3168,19 +3168,19 @@ Value=继续
 
 [APT:NEXTLEVEL]
 Value=Next Level:
-Value=下一个等级：
+Value=下一个等级:
 
 [APT:NEXTLEVELMAIN]
 Value=Next Level:
-Value=下一个等级：
+Value=下一个等级:
 
 [APT:NEXTLEVELNUMFORMAT]
 Value=Next Level: %d Points
-Value=下一个等级：%d点
+Value=下一个等级:%d点
 
 [APT:NEXTLEVELNUMFORMATFORONEPOINT]
 Value=Next Level: %d Point
-Value=下一个等级：%d点
+Value=下一个等级:%d点
 
 [APT:NEXTMISSIONBTTN]
 Value=NEXT MISSION
@@ -3192,7 +3192,7 @@ Value=下一个等级
 
 [APT:NEXTRANKNUMFORMAT]
 Value=Next Level: %d Points
-Value=下一个等级：%d点
+Value=下一个等级:%d点
 
 [APT:NICKNAME]
 Value=Online ID
@@ -3232,7 +3232,7 @@ Value=无 IP 地址
 
 [APT:NONEXTLEVEL]
 Value=Next Level: --
-Value=下一个等级：--
+Value=下一个等级:--
 
 [APT:NORMAL_COOPDIRECTIVE]
 Value=Keeping Command
@@ -3448,7 +3448,7 @@ Value=在线游戏
 
 [APT:ONLYONEMODIFIERALLOWED]
 Value=You may only use one modifier key: Control, Alt, or Shift.Unable to change mapping.
-Value=您只能使用一个组合键：Ctrl、Alt 或 Shift。无法更改定义。
+Value=您只能使用一个组合键:Ctrl、Alt 或 Shift。无法更改定义。
 
 [APT:ONSORTMAP]
 Value=Map
@@ -3512,11 +3512,11 @@ Value=总计
 
 [APT:OVERALLCAREERLOSSESCOLON]
 Value=Overall Career Losses:
-Value=总计历史战败次数：
+Value=总计历史战败次数:
 
 [APT:OVERALLCAREERWINSCOLON]
 Value=Overall Career Wins:
-Value=总计历史胜利次数：
+Value=总计历史胜利次数:
 
 [APT:OVERALLHD]
 Value=OVERALL
@@ -3636,7 +3636,7 @@ Value=辅助技能
 
 [APT:PLAYERCOLON]
 Value=Player:
-Value=玩家：
+Value=玩家:
 
 [APT:PLAYERHISTORY]
 Value=%s's Play History
@@ -3672,7 +3672,7 @@ Value=玩家名称
 
 [APT:PLAYERNAMECOLON]
 Value=Player Name:
-Value=玩家名称：
+Value=玩家名称:
 
 [APT:PLAYERNAMES]
 Value=Player Names
@@ -3680,7 +3680,7 @@ Value=玩家名称
 
 [APT:PLAYERNICKNAMECOLON]
 Value=Player Online ID:
-Value=玩家在线 ID：
+Value=玩家在线 ID:
 
 [APT:PLAYERPOWERCANCEL]
 Value=CANCEL
@@ -3792,7 +3792,7 @@ Value=请输入您的名称
 
 [APT:POINTSCOLON]
 Value=Points:
-Value=点数：
+Value=点数:
 
 [APT:POORCONNECTION]
 Value=Poor Connection
@@ -3920,7 +3920,7 @@ Value=用户存档管理
 
 [APT:PROFILECREATEDCOLON]
 Value=Profile Created:
-Value=用户创建于：
+Value=用户创建于:
 
 [APT:PROFILECREATEDNUM]
 Value=
@@ -3976,7 +3976,7 @@ Value=雷达模式命令 (按住 LT)
 
 [APT:RANK]
 Value=Rank:
-Value=排名：
+Value=排名:
 
 [APT:RANKED]
 Value=Ranked
@@ -3996,7 +3996,7 @@ Value=排名游戏类型
 
 [APT:RANKLABEL]
 Value=Level: %d
-Value=等级：%d
+Value=等级:%d
 
 [APT:RANKSCREEN]
 Value=PROGRESS
@@ -4284,7 +4284,7 @@ ValueLine2=. . .
 ValueLine3=But before you rest on your laurels, do consider that still-wilder fortunes await, should you return to finish all of the side challenges--let alone, finish all the challenges under the posted par times. Not that this could reasonably be expected of anyone, not even our illustrious CEO.
 Value=太厉害了！您完成了指挥官挑战，实至名归升任未来科技集团首席执行官。随之而来的还有数不尽的财富、各类特权、私人专机、新奇玩意儿、追捧你的粉丝、华丽衣装、赫赫声名、豪车、海滨宅邸、税收减免、音乐会后台通行证、赛事包厢季票、养眼的私人助理、内心安宁——当然，顺带还有时不时落到头上的工作职责。
 ValueLine2=. . .
-ValueLine3=不过，在您打算躺在功劳簿上歇息之前请留意：倘若回头完成全部支线挑战，还有更为丰厚的机遇在等候；更不用说要在标准时限内通关所有挑战。说实话，没人能指望完成这般伟业，即便是我们这位显赫的首席执行官也未必能够做到。
+ValueLine3=不过，在您打算躺在功劳簿上歇息之前请留意:倘若回头完成全部支线挑战，还有更为丰厚的机遇在等候；更不用说要在标准时限内通关所有挑战。说实话，没人能指望完成这般伟业，即便是我们这位显赫的首席执行官也未必能够做到。
 
 [APT:SCENARIO_COMPLETE_TITLE]
 Value=CONGRATULATIONS!
@@ -4296,7 +4296,7 @@ Value=完成时间
 
 [APT:SCENARIO_DIFFICULTY_BONUS]
 Value=Difficulty Bonus:
-Value=难度奖励：
+Value=难度奖励
 
 [APT:SCENARIO_EFFICIENCY]
 Value=Efficiency:
@@ -4304,7 +4304,7 @@ Value=效率
 
 [APT:SCENARIO_EMERGENCY_FUND_TOTAL]
 Value=Total Credits Stashed:
-Value=存储资金总额：
+Value=存储资金总额
 
 [APT:SCENARIO_MAP_COMPLETED]
 Value=Challenge Completed
@@ -4340,19 +4340,19 @@ Value=基准时间
 
 [APT:SCENARIO_MAP_RECORD_TIME]
 Value=Record Time:
-Value=最佳纪录时间：
+Value=最佳纪录时间:
 
 [APT:SCENARIO_MAP_TOTAL_MONEY]
 Value=Credits Stashed:
-Value=存储资金：
+Value=存储资金:
 
 [APT:SCENARIO_MAP_TOTAL_TIME]
 Value=Total Time:
-Value=总用时：
+Value=总用时:
 
 [APT:SCENARIO_MAP_UNIT_UNLOCK]
 Value=Tech Unlock:
-Value=科技解锁：
+Value=科技解锁
 
 [APT:Scenario_MenuButton]
 Value=Challenge
@@ -4368,7 +4368,7 @@ Value=--
 
 [APT:SCENARIO_PAR_TIME]
 Value=Par Time:
-Value=基准时间：
+Value=基准时间
 
 [APT:SCENARIO_POST_GAME_HEADER]
 Value=CHALLENGE RESULTS
@@ -4424,7 +4424,7 @@ Value=正在搜索玩家……
 
 [APT:SecuromDeauthorizeDescription]
 Value=This button will deauthorize this computer from playing Command & Conquer Red Alert 3: Uprising.
-Value=这个按钮会解除这台电脑执行命令与征服：红色警戒3：起义时刻的认证。
+Value=这个按钮会解除这台电脑执行命令与征服:红色警戒3:起义时刻的认证。
 
 [APT:SecuromDeauthorizeLabel]
 Value=Deauthorize
@@ -4436,7 +4436,7 @@ ValueLine2=
 ValueLine3=Running the game again will reauthorize the game for this machine.
 ValueLine4=
 ValueLine5=Do you wish to continue?
-Value=您确定要解除这台计算机运行《命令与征服：红色警戒3：起义时刻》的授权吗？
+Value=您确定要解除这台计算机运行《命令与征服:红色警戒3:起义时刻》的授权吗？
 ValueLine2=
 ValueLine3=重新运行游戏将为此计算机重新授权。
 ValueLine4=
@@ -4616,7 +4616,7 @@ Value=已创建遭遇战用户
 
 [APT:SKIRMISHPROFILECREATEDCOLON]
 Value=Skirmish Profile Created:
-Value=遭遇战用户创建于：
+Value=遭遇战用户创建于:
 
 [APT:SKIRMISHSETUP]
 Value=SKIRMISH SETUP
@@ -4660,7 +4660,7 @@ Value=苏联
 
 [APT:SOVIET_FACTION_DESCRIPTION]
 Value=The ARMY of the FUTURE: Lead the new Soviet resistance forces and their latest improvised weapons in the battle to root out the terrible danger growing in the heart of the Motherland.
-Value=未来大军：率领新生的苏联抵抗力量，使用最新改装武器投入战斗，肃清在祖国腹地不断滋长的巨大威胁。
+Value=未来大军:率领新生的苏联抵抗力量，使用最新改装武器投入战斗，肃清在祖国腹地不断滋长的巨大威胁。
 
 [APT:SovietCampaign]
 Value=RA3 Uprising - Soviet Campaign Save
@@ -4936,15 +4936,15 @@ Value=d:h:m
 
 [APT:TIMEDESCRIPTIONDAYSHOURSMINUTE]
 Value=Days:Hours:Minutes
-Value=日：时：分
+Value=日:时:分
 
 [APT:TIMEDESCRIPTIONHOURSMINUTE]
 Value=Hours:Minutes
-Value=时：分
+Value=时:分
 
 [APT:TIMEDESCRIPTIONMINUTESECOND]
 Value=Minutes:Seconds
-Value=分：秒
+Value=分:秒
 
 [APT:TIMEHOURSMINUTE]
 Value=h:m
@@ -4988,7 +4988,7 @@ Value=工具提示延迟
 
 [APT:TOOLTIPPREREQHEADER]
 Value=Requires:
-Value=前提条件：
+Value=前提条件:
 
 [APT:TOOMANYMODIFIERS]
 Value=Too many modifiers
@@ -5004,7 +5004,7 @@ Value=生涯总对局数
 
 [APT:TOTALCAREERGAMESCOLON]
 Value=Total Career Games:
-Value=生涯总对局数：
+Value=生涯总对局数:
 
 [APT:TOTALCAREERLOSSES]
 Value=Total Career Losses
@@ -5012,7 +5012,7 @@ Value=战败总数
 
 [APT:TOTALCAREERLOSSESCOLON]
 Value=Total Career Losses:
-Value=战败总数：
+Value=战败总数:
 
 [APT:TOTALCAREERWINS]
 Value=Total Career Wins
@@ -5020,7 +5020,7 @@ Value=胜利总数
 
 [APT:TOTALCAREERWINSCOLON]
 Value=Total Career Wins:
-Value=胜利总数：
+Value=胜利总数:
 
 [APT:TOTALENEMIESDEFEATED]
 Value=Total Enemies Defeated
@@ -5028,7 +5028,7 @@ Value=歼灭敌人总量
 
 [APT:TOTALGAMESPLAYEDCOLON]
 Value=Total Games Played:
-Value=总局数：
+Value=总局数:
 
 [APT:TOTALSCORE]
 Value=Total Score
@@ -5044,7 +5044,7 @@ Value=总游戏时长
 
 [APT:TOTALTIMEPLAYEDCOLON]
 Value=Total Time Played:
-Value=总游戏时长：
+Value=总游戏时长:
 
 [APT:TOTALTURNS]
 Value=Total Turns
@@ -5176,15 +5176,15 @@ Value=您刚解开了
 
 [APT:UNLOCKED_UNIT_NAME]
 Value=Designation:
-Value=称号：
+Value=称号:
 
 [APT:UNLOCKED_UNIT_SCENARIO]
 Value=Challenge Unlocked From:
-Value=挑战解开自：
+Value=挑战解开自:
 
 [APT:UNLOCKED_UNIT_TYPE]
 Value=Combat Role:
-Value=作战角色：
+Value=作战角色:
 
 [APT:UNLOCKS]
 Value=ARSENAL
@@ -5352,7 +5352,7 @@ Value=胜利
 
 [APT:WINS]
 Value=Wins:
-Value=胜利：
+Value=胜利:
 
 [APT:WINSNUMFORMAT]
 Value=%d Points
@@ -5404,7 +5404,7 @@ Value=最高连败次数
 
 [APT:WORSTLOSSSTREAKCOLON]
 Value=Worst Loss Streak:
-Value=最高连败次数：
+Value=最高连败次数:
 
 [APT:XBOXLIVE]
 Value=Xbox LIVE
@@ -5456,7 +5456,7 @@ Value=您的合作指挥官
 
 [APT:YOURONLINEIDNAME]
 Value=Online ID: %ls
-Value=在线 ID：%ls
+Value=在线 ID:%ls
 
 [APT:YOURRANK]
 Value=Your Rank
@@ -5468,7 +5468,7 @@ Value=百合子
 
 [APT:YURIKO_FACTION_DESCRIPTION]
 Value=The TALE of YURIKO: Guide the Empire of the Rising Sun's vengeful psionic commando through the pieced-together chronicles of her troubled, blood-stained past.
-Value=百合子外传：引导旭日帝国复仇心切的超能波特种兵，拼凑出她不堪回首、充满血腥的过去。
+Value=百合子外传:引导旭日帝国复仇心切的超能波特种兵，拼凑出她不堪回首、充满血腥的过去。
 
 [APT:YurikoCampaign]
 Value=RA3 Uprising - Yuriko Campaign Save
@@ -5648,7 +5648,7 @@ Value=您已从好友列表中断连接。
 
 [BUDDY:MESSAGENOTIFICATION]
 Value=%hs: %s...
-Value=%hs：%s……
+Value=%hs:%s……
 
 [BUDDY:MULTIPLEONLINENOTIFICATION]
 Value=You have buddies online
@@ -5720,7 +5720,7 @@ Value=通讯器
 
 [CHAT:CONSOLE]
 Value=ENTER CONSOLE COMMAND:
-Value=输入控制行命令：
+Value=输入控制行命令:
 
 [CHAT:EVERYONE]
 Value=Everyone Views
@@ -5810,23 +5810,23 @@ Value=单击以设置一个信标。
 
 [CONTROLBAR:CONSTRUCTIONDESC]
 Value=Building: %s
-Value=建筑：%s
+Value=建筑:%s
 
 [CONTROLBAR:RECRUITINGDESC]
 Value=Recruiting: %s
-Value=单位：%s
+Value=单位:%s
 
 [CONTROLBAR:UPGRADINGDESC]
 Value=Upgrading: %s
-Value=升级：%s
+Value=升级:%s
 
 [COUNTER:J03_PARTS_LEFT]
 Value=Transports Total:
-Value=运输艇总数：
+Value=运输艇总数:
 
 [COUNTER:J03_TRANSPORTS_TIMER]
 Value=Transports Arrive In:
-Value=运输单位抵达时间：
+Value=运输单位抵达时间:
 
 [CREDITS:3DANIMATIONRENDERING]
 Value=3D Animation/Rendering
@@ -7394,15 +7394,15 @@ Value=处于侵略姿态下的部队会自动攻击敌方建筑和单位，并�
 
 [DESC:AIASSAULTDIRECTIVE]
 Value=Select a location: Your ally will build up forces to eliminate foes there and along the way.
-Value=选择一个位置：您的盟友将会组织军队，歼灭该处及路上遇到的敌人。
+Value=选择一个位置:您的盟友将会组织军队，歼灭该处及路上遇到的敌人。
 
 [DESC:AIHOLDOBJECTDIRECTIVE]
 Value=Select an enemy: Your ally will immediately send forces to deal with it and other hostiles there.
-Value=选择一个敌人：您的盟友会立即派兵对付它和附近的其他敌人。
+Value=选择一个敌人:您的盟友会立即派兵对付它和附近的其他敌人。
 
 [DESC:AIHOLDPOSITIONDIRECTIVE]
 Value=Select a location: Your ally will immediately send forces to regroup there and hold it down.
-Value=选择一个位置：您的盟友将立即派兵到该处重新集结并固守。
+Value=选择一个位置:您的盟友将立即派兵到该处重新集结并固守。
 
 [DESC:AINORMALDIRECTIVE]
 Value=Your ally will command autonomously: This cancels any other orders you've given.
@@ -7782,15 +7782,15 @@ Value=盟军领导人被困在此处时，正在策划反击计划。
 
 [DESC:COOPAIASSAULTBUTTON]
 Value=Select a location: Your ally will build up forces to eliminate foes there and along the way.
-Value=选择一个位置：您的盟友将会组织军队，歼灭该处及路上遇到的敌人。
+Value=选择一个位置:您的盟友将会组织军队，歼灭该处及路上遇到的敌人。
 
 [DESC:COOPAIHOLDOBJECTBUTTON]
 Value=Select an enemy: Your ally will immediately send forces to deal with it and other hostiles there.
-Value=选择一个敌人：您的盟友会立即派兵对付它和附近的其他敌人。
+Value=选择一个敌人:您的盟友会立即派兵对付它和附近的其他敌人。
 
 [DESC:COOPAIHOLDPOSITIONBUTTON]
 Value=Select a location: Your ally will immediately send forces to regroup there and hold it down.
-Value=选择一个位置：您的盟友将立即派兵到该处重新集结并固守。
+Value=选择一个位置:您的盟友将立即派兵到该处重新集结并固守。
 
 [DESC:COOPAINORMALBUTTON]
 Value=Your ally will command autonomously: This cancels any other orders you've given.
@@ -8586,7 +8586,7 @@ Value=在目标点附近制造时空裂缝，使广大范围内所有东西消�
 
 [DESC:PLAYERPOWERCHRONOSPHERE]
 Value=Matter-transport target units to any other point in the field! Caution: Deadly to infantry.
-Value=将目标单位通过物质传送到战场上的任意位置！警告：对步兵是致命的。
+Value=将目标单位通过物质传送到战场上的任意位置！警告:对步兵是致命的。
 
 [DESC:PLAYERPOWERCHRONOSWAP]
 Value=Cause any two of your units to switch places instantly! Think of the possibilities!
@@ -8776,9 +8776,9 @@ ValueLine4=Radius: Small
 ValueLine5=Cooldown: 30 sec
 Value=将数名敌人化为忠实仆从，他们会誓死追随与护卫，至死不渝。
 ValueLine2=
-ValueLine3=支配：3名步兵
-ValueLine4=作用范围：小
-ValueLine5=施展间隔：30秒
+ValueLine3=支配:3名步兵
+ValueLine4=作用范围:小
+ValueLine5=施展间隔:30秒
 
 [DESC:PlayerPowerYurikoLureRank2]
 Value=Turns a bunch of mortal enemies into hardcore fans, sworn to serve and protect til death do them part.
@@ -8789,9 +8789,9 @@ ValueLine5=Cooldown: 30 sec
 Value=将许多敌人化为忠实仆从，他们会誓死追随与护卫，至死不渝。
 ValueLine2=
 ValueLine3=
-ValueLine4=支配：5名步兵
-ValueLine5=作用范围：中
-ValueLine6=冷却时间：30秒
+ValueLine4=支配:5名步兵
+ValueLine5=作用范围:中
+ValueLine6=冷却时间:30秒
 
 [DESC:PlayerPowerYurikoLureRank3]
 Value=Turns a throng of mortal enemies into hardcore fans, sworn to serve and protect til death do them part.
@@ -8801,9 +8801,9 @@ ValueLine4=Radius: Large
 ValueLine5=Cooldown: 30 sec
 Value=将一群敌人化为忠实仆从，他们会誓死追随与护卫，至死不渝。
 ValueLine2=
-ValueLine3=支配：7名步兵
-ValueLine4=作用范围：大
-ValueLine5=冷却时间：30秒
+ValueLine3=支配:7名步兵
+ValueLine4=作用范围:大
+ValueLine5=冷却时间:30秒
 
 [DESC:PlayerPowerYurikoShieldRank1]
 Value=Raises an impervious psionic barrier, which briefly causes bullets and beams to bounce back at their source.
@@ -8812,8 +8812,8 @@ ValueLine3=Duration: 5 sec
 ValueLine4=Cooldown: 15 sec
 Value=升起一道牢不可破的心灵屏障，短暂地将子弹与光束反弹回攻击源头。
 ValueLine2=
-ValueLine3=作用时间：5秒
-ValueLine4=施展间隔：15秒
+ValueLine3=作用时间:5秒
+ValueLine4=施展间隔:15秒
 
 [DESC:PlayerPowerYurikoShieldRank2]
 Value=Raises an impervious psionic barrier, which causes bullets and beams to bounce back at their source for a while.
@@ -8822,8 +8822,8 @@ ValueLine3=Duration: 7 sec
 ValueLine4=Cooldown: 15 sec
 Value=升起一道牢不可破的心灵屏障，能将子弹与光束反弹回攻击源头，持续一段时间。
 ValueLine2=
-ValueLine3=作用时间：7秒
-ValueLine4=冷却时间：15秒
+ValueLine3=作用时间:7秒
+ValueLine4=冷却时间:15秒
 
 [DESC:PlayerPowerYurikoShieldRank3]
 Value=Raises a long-lasting, impervious psionic barrier, which causes bullets and beams to bounce back at their source.
@@ -8832,8 +8832,8 @@ ValueLine3=Duration: 9 sec
 ValueLine4=Cooldown: 15 sec
 Value=升起一道持久且牢不可破的心灵屏障，能将子弹与光束反弹回攻击源头。
 ValueLine2=
-ValueLine3=作用时间：9秒
-ValueLine4=冷却时间：15秒
+ValueLine3=作用时间:9秒
+ValueLine4=冷却时间:15秒
 
 [DESC:PlayerPowerYurikoSlamRank1]
 Value=Levitates common objects, most vehicles, and people, then slams them down with violent force.
@@ -8842,8 +8842,8 @@ ValueLine3=Radius: Small
 ValueLine4=Cooldown: 5 sec
 Value=举起普通物体、多数载具以及人员，然后以狂暴之力将其猛砸向地面。
 ValueLine2=
-ValueLine3=作用范围：小
-ValueLine4=冷却时间：5秒
+ValueLine3=作用范围:小
+ValueLine4=冷却时间:5秒
 
 [DESC:PlayerPowerYurikoSlamRank2]
 Value=Levitates several common objects, most vehicles, and people, then slams them down with savage force.
@@ -8852,8 +8852,8 @@ ValueLine3=Radius: Medium
 ValueLine4=Cooldown: 4 sec
 Value=举起若干普通物体、多数载具以及人员，然后以残暴之力将其猛砸向地面。
 ValueLine2=
-ValueLine3=作用范围：中
-ValueLine4=冷却时间：4秒
+ValueLine3=作用范围:中
+ValueLine4=冷却时间:4秒
 
 [DESC:PlayerPowerYurikoSlamRank3]
 Value=Levitates multiple common objects, most vehicles, and people, then slams them down with demonic force.
@@ -8862,8 +8862,8 @@ ValueLine3=Radius: Large
 ValueLine4=Cooldown: 3 sec
 Value=举起大量普通物体、多数载具以及人员，然后以恶魔之力将其猛砸向地面。
 ValueLine2=
-ValueLine3=作用范围：大
-ValueLine4=冷却时间：3秒
+ValueLine3=作用范围:大
+ValueLine4=冷却时间:3秒
 
 [DESC:PlayerPowerYurikoUpgradeAttackDamage01]
 Value=Heightens aggression, making it easier to crush the life from things. Also affects psychic-dominated lackies.
@@ -8873,7 +8873,7 @@ ValueLine4=Attack Power: +25%
 Value=提升攻击性，轻易碾碎万物生机。亦会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=攻击威力：+25%
+ValueLine4=攻击威力:+25%
 
 [DESC:PlayerPowerYurikoUpgradeAttackDamage02]
 Value=Heightens aggression, making it much easier to crush the life from things. Also affects psychic-dominated lackies.
@@ -8883,7 +8883,7 @@ ValueLine4=Attack Power: +50%
 Value=提升攻击性，更易碾碎万物生机。亦会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=攻击威力：+50%
+ValueLine4=攻击威力:+50%
 
 [DESC:PlayerPowerYurikoUpgradeHealth01]
 Value=Shrugs off injuries that would normally cause much pain. Also affects psychic-dominated lackies.
@@ -8893,7 +8893,7 @@ ValueLine4=Max Health: +25%
 Value=轻松承受本会造成剧痛的伤害。同样会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=生命上限：+25%
+ValueLine4=生命上限:+25%
 
 [DESC:PlayerPowerYurikoUpgradeHealth02]
 Value=Shrugs off injuries that would normally cause death. Also affects psychic-dominated lackies.
@@ -8903,7 +8903,7 @@ ValueLine4=Max Health: +50%
 Value=轻松承受本会致死的伤害。同样会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=生命上限：+50%
+ValueLine4=生命上限:+50%
 
 [DESC:PlayerPowerYurikoUpgradeSpeed01]
 Value=Reduces how long it takes to get from one place to another. Also affects psychic-dominated lackies.
@@ -8913,7 +8913,7 @@ ValueLine4=Speed: +25%
 Value=缩短从一处到另一处所需的时间。同样会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=速度：+25%
+ValueLine4=速度:+25%
 
 [DESC:PlayerPowerYurikoUpgradeSpeed02]
 Value=Reduces how long it takes to get from one place to another by a lot. Also affects psychic-dominated lackies.
@@ -8923,7 +8923,7 @@ ValueLine4=Speed: +50%
 Value=大幅缩短从一处到另一处所需的时间。同样会影响受心灵支配的仆从。
 ValueLine2=
 ValueLine3=被动升级
-ValueLine4=速度：+50%
+ValueLine4=速度:+50%
 
 [DESC:PortAuthority]
 Value=This structure broadcasts naval communications around Cannes. Tanya could use it.
@@ -8965,9 +8965,9 @@ ValueLine4=Stuns: Vehicles
 ValueLine5=Cooldown: 30 sec
 Value=在原始念动能量的爆炸中，粉碎血肉之躯，瘫痪机械设备。
 ValueLine2=
-ValueLine3=击杀：步兵
-ValueLine4=瘫痪：载具
-ValueLine5=冷却时间：30秒
+ValueLine3=击杀:步兵
+ValueLine4=瘫痪:载具
+ValueLine5=冷却时间:30秒
 
 [DESC:QUICKCHAT_DIRECTIVES_BUILDUP_ALLIESMESSAGE1]
 Value=Build up some more forces, will ya?
@@ -9909,7 +9909,7 @@ ValueLine4=» Note: Challenge completion time will be void.
 Value=在紧急状况下，左键点击按钮！
 ValueLine2=→ 从储备金中获取最多50,000资金。
 ValueLine3=→ 赋予所有可用部队英雄等级。
-ValueLine4=→ 注：挑战完成时间将作废。
+ValueLine4=→ 注:挑战完成时间将作废。
 
 [DESC:REPAIRMODE]
 Value=Spend credits to repair damaged structures.
@@ -10481,11 +10481,11 @@ Value=通过此菜单解开百合子潜在超能力的神秘力量！在百合�
 
 [DESCRIPTION:BUTTONJAIV_TRANSFORM]
 Value=Switches to Jet Tengu flight configuration for air superiority and superior mobility.
-Value=切换为天狗战斗机飞行模式，夺取制空权并大幅提升机动性。
+Value=切换为喷气式天狗飞行模式，夺取制空权并大幅提升机动性。
 
 [DESCRIPTION:BUTTONJAIV_TRANSFORMOFF]
 Value=Switches to amphibious Mecha Tengu mode for anti-infantry fast-attack capability.
-Value=切换为两栖天狗机甲模式，具备反步兵快速攻击能力。
+Value=切换为两栖机甲天狗模式，具备反步兵快速攻击能力。
 
 [DESCRIPTION:SPECIALPOWERSHRINKRAY]
 Value=Zaps ground units down to an embarrassing and easily crushable yet speedy little size.
@@ -10589,7 +10589,7 @@ Value=这些武装战艇机，可以对目标区域施以猛裂的压制火力�
 
 [DIALOGEVENT:MA01_ALLIEDINTEL55]
 Value=The warlord Shinzo Nagama is holding out at his clan's village. Your mission is to subdue him so he can be brought to justice. Specifically:
-Value=军阀长间晋三坚守他的家族村庄。 您的任务是制伏他，让他接受法律的制裁。 任务细节如下：
+Value=军阀长间晋三坚守他的家族村庄。 您的任务是制伏他，让他接受法律的制裁。 任务细节如下:
 
 [DIALOGEVENT:MA01_ALLIEDINTEL56]
 Value=Establish a forward base in the vicinity of Shinzo's main base.
@@ -10693,7 +10693,7 @@ Value=贤治的庄园已经摧毁。
 
 [DIALOGEVENT:MA02_ALLIEDINTEL45]
 Value=Prepare to close in on Kenji's location -- priority overridden.[3.8]Caution. We detect that one of our own Tech Inhibitors has been activated and is being used against us.
-Value=准备逼进贤治的所在地，优先事项已变更。[3.8]注意：检测到我方一台科技抑制装置已被激活，且正被调转来对付我们。
+Value=准备逼进贤治的所在地，优先事项已变更。[3.8]注意:检测到我方一台科技抑制装置已被激活，且正被调转来对付我们。
 
 [DIALOGEVENT:MA02_ALLIEDINTEL46]
 Value=Use caution inside the city, Commander.[2.3]Resistance forces may have occupied the civilian structures here.
@@ -10805,7 +10805,7 @@ Value=指挥官，达郎窃取了超时空传送网络的访问权限。
 
 [DIALOGEVENT:MA03_ALLIEDINTEL28]
 Value=Be advised, Commander: It appears Tatsu is using our Chronosphere against us.
-Value=请注意，指挥官：达郎显然在使用我们的超时空传送来对付我们。
+Value=请注意，指挥官:达郎显然在使用我们的超时空传送来对付我们。
 
 [DIALOGEVENT:MA03_ALLIEDINTEL29]
 Value=Tatsu is transporting his naval forces into range of our base.
@@ -10833,7 +10833,7 @@ Value=叛变的帝国指挥官高良和残存势力一起躲在宫古附近。
 
 [DIALOGEVENT:MA03_ALLIEDINTEL35]
 Value=She is to be neutralized. Tatsu and Allied Command expect that this will put a stop to the rebellion. Your mission is:
-Value=您必须将她消灭掉。达郎和盟军指挥部预期此举将平息叛乱。您的任务是：
+Value=您必须将她消灭掉。达郎和盟军指挥部预期此举将平息叛乱。您的任务是:
 
 [DIALOGEVENT:MA03_ALLIEDINTEL36]
 Value=Breach Takara's defensive perimeter with your Mobile Construction Vehicle.
@@ -11329,7 +11329,7 @@ Value=奉达郎王子之命，惩罚那些攻击隐岐岛的苏联部队。您�
 
 [DIALOGEVENT:MI03_IMPERIALINTEL42]
 Value=Your target will be the Soviet port of Vladivostok, which is the staging area for the recent Soviet attacks on our territory. Here are your objectives:
-Value=苏联港口海参威是您的目标，那里是近期苏联攻击我方领土行动的集结整备区。您的目标如下：
+Value=苏联港口海参威是您的目标，那里是近期苏联攻击我方领土行动的集结整备区。您的目标如下:
 
 [DIALOGEVENT:MI03_IMPERIALINTEL43]
 Value=Destroy Commander Oleg's base of operations. He's in charge of the Union's armor divisions.
@@ -11401,7 +11401,7 @@ Value=移动基地车是两栖自供电基地，通过逆向工程从盟军和�
 
 [DIALOGEVENT:MIIN_MECHATENGU]
 Value=The Mecha Tengu are versatile fast-attack skirmishers whose twin autocannons are particularly deadly against infantry.[6.9]There is no terrain they cannot cross.[10]Their special ability is to transform into the Jet Tengu, a flying form effective against aircraft.
-Value=天狗机甲是多用途快速攻击部队，其双联机炮专门克制步兵。[5.4]它们能够穿越任何地形。[10]其特殊技能是变形为喷气天狗，一种能有效对付飞机的空中形态。
+Value=机甲天狗是多用途快速攻击部队，其双联机炮专门克制步兵。[5.4]它们能够穿越任何地形。[10]其特殊技能是变形为喷气天狗，一种能有效对付飞机的空中形态。
 
 [DIALOGEVENT:MIIN_MECHKING]
 Value=The Shogun Executioner is a one-of-a-kind weapon.[3]This colossal battle robot was created to instill panic and awe in the enemy while taking on entire armies.[9.6]It may engage multiple forces at once with its various weapons systems, and can crush almost anything under its massive feet.[16.9]It does require anti-aircraft support, however.
@@ -11545,7 +11545,7 @@ Value=多名苏联科学家遭到绑架，被迫为盟军的实验效力。[5.3]
 
 [DIALOGEVENT:MS01_SOVIETINTEL63]
 Value=Caution:Unidentified energy signatures readings detected.[3.7]Please stand by.
-Value=警告：检测到不明能量信号读数。[3.7]请做好准备。
+Value=警告:检测到不明能量信号读数。[3.7]请做好准备。
 
 [DIALOGEVENT:MS01_SOVIETINTEL64]
 Value=It appears the Allies have activated the Pacifiers, their new long-range artillery vehicles.[5.6]Any forces in range are strongly advised to avoid standing still.
@@ -11593,7 +11593,7 @@ Value=您的战斗侦察部队已在行动中阵亡。[3.3]任务中止。
 
 [DIALOGEVENT:MS01_SOVIETINTEL75]
 Value=We need you to investigate Allied activity in Romania and find a way to rescue our Chief Scientists. You will lead this recovery force. Their objectives are as follows:
-Value=我们需要您去调查盟军在罗马尼亚地区的活动，并设法救出我们的首席科学家。 您将指挥这支营救部队。 任务目标如下：
+Value=我们需要您去调查盟军在罗马尼亚地区的活动，并设法救出我们的首席科学家。 您将指挥这支营救部队。 任务目标如下:
 
 [DIALOGEVENT:MS01_SOVIETINTEL76]
 Value=Capture the Observation Posts to assess the Allies' intentions.
@@ -11725,7 +11725,7 @@ Value=我们的特工发现，未来科技公司在我国摩尔曼斯克建立�
 
 [DIALOGEVENT:MS02_SOVIETINTEL40]
 Value=You are needed to lead a reconnaissance force in that area to determine the enemy threat. Your objective is simple:
-Value=您要率领一支侦察部队前往该区域，判断敌人的威胁。您的任务目标很简单：
+Value=您要率领一支侦察部队前往该区域，判断敌人的威胁。您的任务目标很简单:
 
 [DIALOGEVENT:MS02_SOVIETINTEL41]
 Value=Infiltrate the FutureTech research facility. We need more information about their plans.
@@ -11793,7 +11793,7 @@ Value=第三座，也就是最后一座岛屿，已在我们手中。[2.6]指挥
 
 [DIALOGEVENT:MS03_SOVIETINTEL24]
 Value=We need to acquire some resources in order to secure our position.[3.9]We have a plan for this:
-Value=我们需要获取资源以巩固阵地。[3.9]计划如下：
+Value=我们需要获取资源以巩固阵地。[3.9]计划如下:
 
 [DIALOGEVENT:MS03_SOVIETINTEL25]
 Value=We have learned that FutureTech is expecting a large shipment of ore to fund the production of its military forces.
@@ -11853,7 +11853,7 @@ Value=我们在尤卡坦发现了一处未来科技军事基地。攻击西伯�
 
 [DIALOGEVENT:MS03_SOVIETINTEL39]
 Value=A strike team under your command will lead the assault. Your mission objectives are:
-Value=由您指挥的突击队将负责主攻。您的任务目标如下：
+Value=由您指挥的突击队将负责主攻。您的任务目标如下:
 
 [DIALOGEVENT:MS03_SOVIETINTEL40]
 Value=Bring down the Lookout Posts around the island. This will allow us to provide additional reinforcements without giving away our position.
@@ -11961,7 +11961,7 @@ Value=我们的主要目标是一座名为“西格玛协调器”的巨型建�
 
 [DIALOGEVENT:MS04_SOVIETINTEL54]
 Value=Here is what we need you to do:
-Value=我们需要您完成以下任务：
+Value=我们需要您完成以下任务:
 
 [DIALOGEVENT:MS04_SOVIETINTEL55]
 Value=Bring down the coastal defenses protecting the Sigma Harmonizer. This will give our main assault forces the signal to move in.
@@ -12145,7 +12145,7 @@ Value=战熊受过陆地和海上侦察以及反步兵战斗训练。[5.6]它们
 
 [DIALOGEVENT:MT01_GUARDIAN01]
 Value=*Oy, welcome to Command & Conquer Red Alert 3.
-Value=嘿，欢迎来到《命令与征服：红色警戒3》。
+Value=嘿，欢迎来到《命令与征服:红色警戒3》。
 
 [DIALOGEVENT:MT01_GUARDIAN02]
 Value=*I'm an Allied Guardian Tank, and these prats and I are here to tell you about how we think you should be doing your job. Sir.
@@ -12449,7 +12449,7 @@ Value=建造矿石精炼厂时会附赠一辆采矿车，它会自动帮您采�
 
 [DIALOGEVENT:MT02_GUARDIAN20]
 Value=*Pro tip, friend: If by some freak accident, one of your Prospectors or Ore Collectors is destroyed, you can always build another from your Ore Refineries.
-Value=给您一个建议，朋友：万一您的采矿车被意外摧毁，随时可以在矿石精炼厂里再造一辆。
+Value=给您一个建议，朋友:万一您的采矿车被意外摧毁，随时可以在矿石精炼厂里再造一辆。
 
 [DIALOGEVENT:MT02_GUARDIAN21]
 Value=*Just select the Ore Refinery and you'll see it can build another resource vehicle as its special ability.
@@ -12921,7 +12921,7 @@ Value=帝国码头是唯一无法在陆地上展开的建筑，而机甲工厂�
 
 [DIALOGEVENT:MT02_TSUNAMI44]
 Value=*One last thing about Imperial production structures: They must be upgraded individually to unlock new construction options. You'll find these upgrades in their build queues.
-Value=最后一点关于帝国生产建筑的注意事项：它们需要单独升级才能解锁新的建造选项，这些升级可在各自的建造队列中找到。
+Value=最后一点关于帝国生产建筑的注意事项:它们需要单独升级才能解锁新的建造选项，这些升级可在各自的建造队列中找到。
 
 [DIALOGEVENT:MT02_TSUNAMI45]
 Value=*Now, Commander, do you see how superior our production capability is compared with that of my barbaric friends here?
@@ -12981,7 +12981,7 @@ Value=看见了吧，天启坦克没法开火了。现在没那么吓人了吧�
 
 [DIALOGEVENT:MT03_GUARDIAN14]
 Value=*So remember: Even the toughest enemy units may be vulnerable to your lesser units' special abilities. Learn them all, and never give up.
-Value= 记住：再强的敌人，也可能栽在您弱小部队的特殊技能上。充分地了解它们，别放弃。
+Value= 记住:再强的敌人，也可能栽在您弱小部队的特殊技能上。充分地了解它们，别放弃。
 
 [DIALOGEVENT:MT03_GUARDIAN15]
 Value=*No robots are gonna get past you, Commander!
@@ -13233,11 +13233,11 @@ Value=
 
 [DIALOGEVENT:MT03_TSUNAMI13]
 Value=*One basic example is the MCV, though let us take a look at a more-exciting case in one of the Empire of the Rising Sun's versatile Mecha Tengu units.
-Value=基地车是最基本的例子，不过我们来看一个更精彩的——旭日帝国那款多功能天狗机甲。
+Value=基地车是最基本的例子，不过我们来看一个更精彩的——旭日帝国那款多功能机甲天狗。
 
 [DIALOGEVENT:MT03_TSUNAMI14]
 Value=*The Mecha Tengu is an amphibious hovering anti-infantry unit that can transform into the Jet Tengu, a flying air-superiority fighter.
-Value=天狗机甲是两栖悬浮反步兵单位，可变形为天狗战斗机，一种飞行空优战斗机。
+Value=机甲天狗是两栖悬浮反步兵单位，可变形为喷气式天狗，一种飞行空优战斗机。
 
 [DIALOGEVENT:MT03_TSUNAMI15]
 Value=*Not only does the transform ability affect how it navigates the battlefield, it also means the unit changes from having anti-ground weapons to anti-air weapons.
@@ -13245,11 +13245,11 @@ Value=变形能力不仅改变它在战场上的移动方式，也让它从对�
 
 [DIALOGEVENT:MT03_TSUNAMI16]
 Value=*Select the Mecha Tengu and use its special ability.
-Value=选中天狗机甲，然后使用它的特殊技能。
+Value=选中机甲天狗，然后使用它的特殊技能。
 
 [DIALOGEVENT:MT03_TSUNAMI17]
 Value=*Impressive, no? Now... order your Jet Tengu to destroy that miserable Cryocopter!
-Value=惊人吧？那么……命令您的天狗战斗机摧毁那架可怜的冰冻直升机！
+Value=惊人吧？那么……命令您的喷气式天狗摧毁那架可怜的冰冻直升机！
 
 [DIALOGEVENT:MT03_TSUNAMI18]
 Value=*Oh, and don't worry -- it is merely a training robot carefully disguised to look like a real vehicle.
@@ -13567,7 +13567,7 @@ Value=经过之前的课程，您现在应该对盟军间谍和他的本事有�
 
 [DIALOGEVENT:MT05_GUARDIAN03]
 Value=*Spies can disguise themselves as enemy units. Only scout units--the Allied Attack Dog, Soviet War Bear, and Imperial Burst Drone--can detect disguised enemy units.
-Value=间谍可以伪装成敌方单位。只有侦察单位：盟军警犬、苏联战熊和帝国爆裂机器人能识破伪装。
+Value=间谍可以伪装成敌方单位。只有侦察单位:盟军警犬、苏联战熊和帝国爆裂机器人能识破伪装。
 
 [DIALOGEVENT:MT05_GUARDIAN04]
 Value=*Spies and Imperial Shinobi can also infiltrate enemy structures.
@@ -13707,7 +13707,7 @@ Value=多功能炮塔在搭载不同步兵时会切换武器，不过默认使�
 
 [DIALOGEVENT:MT05_GUARDIAN42]
 Value=*I've been meaning to tell you, by the way: If you have units selected and you open the Command Menu, you can back up to the top level just by pushing the B button.
-Value=顺便提醒您：如果选中部队后打开命令菜单，按B键可以直接返回顶层菜单。
+Value=顺便提醒您:如果选中部队后打开命令菜单，按B键可以直接返回顶层菜单。
 
 [DIALOGEVENT:MT05_GUARDIAN43]
 Value=*You don't need to deselect anybody.
@@ -13855,7 +13855,7 @@ Value=按Y键可以直接跳到该编队或当前选中的任何单位位置。
 
 [DIALOGEVENT:MT05_TSUNAMITANK11]
 Value=*One further note about control groups: All units are placed into Control Groups automatically.
-Value=再补充一点关于编组的提示：所有单位都会自动归入编组。
+Value=再补充一点关于编组的提示:所有单位都会自动归入编组。
 
 [DIALOGEVENT:MT05_TSUNAMITANK12]
 Value=*To access these, open the Command Menu, and select Control Groups in the 8 o'clock position. There you will always be able to select any of your units by type.
@@ -14779,7 +14779,7 @@ Value=你太过分了，百合子。
 
 [DIALOGEVENT:MY03_DRSHIMADA06]
 Value=Attention Imperial Troops: you are fully authorized to kill Yuriko.
-Value=帝国部队注意：授权你们击毙百合子。
+Value=帝国部队注意:授权你们击毙百合子。
 
 [DIALOGEVENT:MY03_DRSHIMADA07]
 Value=Reinforcements!  Someone help!
@@ -15139,7 +15139,7 @@ Value=海翼——海翼是潜航单位，能浮出水面用导弹齐射击落�
 
 [ECS:BETALOADSCREEN23DESC]
 Value=The Empire of the Rising Sun's anti-air options revolve around its new Archer Maiden divisions as well as its transforming forces. Try switching to the secondary modes of your Defender-VX base defense or Mecha Tengu to take down those aircraft!
-Value=旭日帝国的防空手段主要依靠新型弓箭少女部队以及变形单位。试着将防卫者-VX基地防御设施或天狗机甲切换为第二形态，击落那些飞机！
+Value=旭日帝国的防空手段主要依靠新型弓箭少女部队以及变形单位。试着将防卫者-Vx基地防御设施或机甲天狗切换为第二形态，击落那些飞机！
 
 [ECS:BETALOADSCREEN24DESC]
 Value=The Allies must advance their tech at each of their expansion bases independently. Research Heightened Clearance to unlock the second tier of units, then get up to Max Clearance for the mightiest forces of all!
@@ -15267,7 +15267,7 @@ Value=默认状态下，您的部队不会主动攻击敌方建筑，这在需�
 
 [ECS:LOADSCREENGENERALTIP08]
 Value=Seasoned commanders agree: In battle, it's best to keep spending one's credits without exceeding one's income. This way you'll be building new military forces and additional structures at a good clip. Don't get caught sitting on thousands of credits with no army to defend them!
-Value=经验丰富的指挥官们都认同一条原则：战场上应保持支出不超过收入的速度持续花销，这样就能以稳定节奏生产部队和建筑。但千万别囤积大量资金，却没有军队守护这份家底！
+Value=经验丰富的指挥官们都认同一条原则:战场上应保持支出不超过收入的速度持续花销，这样就能以稳定节奏生产部队和建筑。但千万别囤积大量资金，却没有军队守护这份家底！
 
 [ECS:LOADSCREENGENERALTIP09]
 Value=If a strategy is ineffective, immediately discontinue its use! Avoid relying too heavily on any one tactic, lest your opponents catch on and bring the right counters. Keeping your enemies guessing is the key to victory.
@@ -15311,7 +15311,7 @@ Value=旭日帝国可利用精炼核心快速扩张至未占领的矿脉。帝�
 
 [ECS:LOADSCREENJAPANMECHAKINGDESC]
 Value=SHOGUN EXECUTIONER - Unrivaled, Prince Tatsu's near-unstoppable creation has cut a path through the Soviet countryside. Now its six eyes are set squarely on the Union's capital city. Its mission has been hard-coded: Moscow and the Kremlin must be utterly destroyed, the Soviets' time-machine along with them.
-Value=将军刽子手——达郎王子的造物所向披靡，在苏联乡间横扫千军。如今它的六只眼已死死盯住苏联首都。其使命已被牢牢写入核心：莫斯科与克里姆林宫必须被彻底摧毁，苏联的时间机器也不能留下。
+Value=将军刽子手——达郎王子的造物所向披靡，在苏联乡间横扫千军。如今它的六只眼已死死盯住苏联首都。其使命已被牢牢写入核心:莫斯科与克里姆林宫必须被彻底摧毁，苏联的时间机器也不能留下。
 
 [ECS:LOADSCREENJAPANNAVYDESC]
 Value=The Imperial navy is as versatile as it is deadly, often taking the Empire's enemies by surprise using amphibious assaults or long-range bombardment. Consider the seas unsafe when the Rising Sun's afoot.
@@ -15459,7 +15459,7 @@ Value=格雷戈尔·泽林斯基博士——一位才华横溢且家境殷实的
 
 [ECS:LOADSCREENSOVIETZHANA2DESC]
 Value=Faced with a new threat in the Empire of the Rising Sun, the Soviet military's publicity department worked tirelessly to produce high-impact propaganda with which to compel millions of young men into enlisting willingly. Pictured: Commander Zhana Agonskaya, posing for a Red Air Force recruitment campaign.
-Value=面对旭日帝国这一新威胁，苏联军方的宣传部门不遗余力地制作强有力的宣传材料，以促使数百万年轻人自愿入伍。图为：夏娜·阿肯斯雅指挥官为红军空军征兵活动拍摄的宣传照。
+Value=面对旭日帝国这一新威胁，苏联军方的宣传部门不遗余力地制作强有力的宣传材料，以促使数百万年轻人自愿入伍。图为:夏娜·阿肯斯雅指挥官为红军空军征兵活动拍摄的宣传照。
 
 [ECS:LoadScreenSteelRonin]
 Value=STEEL RONIN - Most Imperial soldiers found guilty of treason or war crimes are promptly executed. The most experienced ones, however, instead are locked in a sort of solitary confinement within the massive frame of a Steel Ronin assault suit. There they would lie for years in a fugue state, to be awakened for battle only in the event of the Empire's darkest hour.
@@ -15951,7 +15951,7 @@ Value=5 分钟
 
 [GUI:ABORTCREATEACCOUNTWARNING]
 Value=Notice: You will not be able to play online unless you create an EA.com account.
-Value=注意：您必须要有 EA.com 账户才可以进行在线游戏。
+Value=注意:您必须要有 EA.com 账户才可以进行在线游戏。
 
 [GUI:ACCEPT]
 Value=ACCEPT
@@ -16183,7 +16183,7 @@ Value=信标
 
 [GUI:BEACONLABEL]
 Value=Type message:
-Value=输入信息：
+Value=输入信息:
 
 [GUI:BEACONPLACED]
 Value=A Beacon was placed by %ls.
@@ -16499,11 +16499,11 @@ Value=连接完成
 
 [GUI:CONNECTIONFAILED]
 Value=Failed connection:
-Value=连接失败：
+Value=连接失败:
 
 [GUI:CONNECTIONINPROGRESS]
 Value=Connection in progress:
-Value=连接进度中：
+Value=连接进度中:
 
 [GUI:CONNECTIONSPEED]
 Value=Connection Speed
@@ -16777,7 +16777,7 @@ ValueLine4=» Build various units to counter enemy forces
 ValueLine5=» Expand to new Ore Mines to earn more income
 ValueLine6=» Use Top-Secret Protocols and unit special abilities
 ValueLine7=» If a strategy is ineffective, discontinue its use
-Value=指挥备忘录：
+Value=指挥备忘录:
 ValueLine2=» 建造发电设施和矿石精炼厂
 ValueLine3=» 侦查敌方动向，常看雷达
 ValueLine4=» 建造多种部队，克制敌军
@@ -16967,7 +16967,7 @@ Value=结束战役
 
 [GUI:ENTERLADDERPASSWORD]
 Value=Enter ladder password:
-Value=输入排名赛密码：
+Value=输入排名赛密码:
 
 [GUI:ENTERSAVEDESC]
 Value=Enter game description
@@ -17011,7 +17011,7 @@ Value=在线游戏体验可能发生变化
 
 [GUI:ESRB_TOP]
 Value=ESRB Notice:
-Value=ESRB 告示：
+Value=ESRB 告示:
 
 [GUI:ESTABLISHINGCONNECTIONPATHS]
 Value=ESTABLISHING CONNECTION PATHS
@@ -17111,7 +17111,7 @@ Value=切换所选目标的跟随状态。
 
 [GUI:FULLGAMENAME]
 Value=Command & Conquer Red Alert 3: Uprising
-Value=命令与征服：红色警戒3：起义时刻
+Value=命令与征服:红色警戒3:起义时刻
 
 [GUI:GAINRANK]
 Value=+%d Rank
@@ -17123,11 +17123,11 @@ Value=游戏信息
 
 [GUI:GAMENAME]
 Value=Match Name:
-Value=比赛名称：
+Value=比赛名称:
 
 [GUI:GAMENAME:]
 Value=Game:
-Value=游戏：
+Value=游戏:
 
 [GUI:GAMEOPTIONS]
 Value=GAME OPTIONS
@@ -17163,7 +17163,7 @@ Value=游戏保存完毕
 
 [GUI:GAMESPEED]
 Value=Game Speed:
-Value=游戏速度：
+Value=游戏速度:
 
 [GUI:GAMESPLAYED]
 Value=Games Played
@@ -17255,7 +17255,7 @@ Value=好友邀请超时
 
 [GUI:GSCOMPETITIONFAILED]
 Value=WARNING: Problem communicating with stats server.  Match results may not get reported.
-Value=警告：与统计服务器通信出现问题。比赛结果可能无法上报。
+Value=警告:与统计服务器通信出现问题。比赛结果可能无法上报。
 
 [GUI:GSDISCONNECTED]
 Value=You have been disconnected from the chat server.
@@ -17435,19 +17435,19 @@ Value=未知新建用户错误。
 
 [GUI:GSGPDISCONREASON513]
 Value=New User Error: Invalid Online ID. Try again.
-Value=新建用户错误：在线ID无效。请重试。
+Value=新建用户错误:在线ID无效。请重试。
 
 [GUI:GSGPDISCONREASON514]
 Value=New User Error: Invalid password. Try again.
-Value=新建用户错误：密码无效。请重试。
+Value=新建用户错误:密码无效。请重试。
 
 [GUI:GSGPDISCONREASON515]
 Value=New User Error: Unique Online ID is invalid. Try something else.
-Value=新建用户错误：唯一在线ID无效。请尝试其他名称。
+Value=新建用户错误:唯一在线ID无效。请尝试其他名称。
 
 [GUI:GSGPDISCONREASON516]
 Value=New User Error: Unique Online ID is already in use. Try something else.
-Value=新建用户错误：唯一在线ID已有人使用。请尝试其他名称。
+Value=新建用户错误:唯一在线ID已有人使用。请尝试其他名称。
 
 [GUI:GSGROUPROOMJOINFAIL]
 Value=Failed to join chat room
@@ -17607,7 +17607,7 @@ Value=主持人
 
 [GUI:HTTPPROXY]
 Value=HTTP Proxy:
-Value=HTTP 代理：
+Value=HTTP 代理:
 
 [GUI:INFO]
 Value=Player Info
@@ -17651,7 +17651,7 @@ Value=排名赛密码错误。
 
 [GUI:IPADDRESSES]
 Value=LAN IP:
-Value=局域网 IP：
+Value=局域网 IP:
 
 [GUI:JOIN]
 Value=JOIN GAME
@@ -17743,7 +17743,7 @@ Value=排名赛信息
 
 [GUI:LADDERFACTIONS]
 Value=Allowed army factions:
-Value=允许的军队阵营：
+Value=允许的军队阵营:
 
 [GUI:LADDERHASPASSWORD]
 Value=This Ladder is password protected.
@@ -17755,19 +17755,19 @@ Value=排名赛战败次数
 
 [GUI:LADDERMAPS]
 Value=Allowed maps:
-Value=允许的地图：
+Value=允许的地图:
 
 [GUI:LADDERMAXWINS]
 Value=Maximum wins allowed: %d
-Value=允许的最高胜利次数：%d
+Value=允许的最高胜利次数:%d
 
 [GUI:LADDERMINWINS]
 Value=Minimum wins required: %d
-Value=要求的最低胜利次数：%d
+Value=要求的最低胜利次数:%d
 
 [GUI:LADDERNAME]
 Value=Ladder Name:
-Value=排名赛名称：
+Value=排名赛名称:
 
 [GUI:LADDERNAMEANDSIZE]
 Value=%ls (%dv%d)
@@ -17783,11 +17783,11 @@ Value=排名赛点数
 
 [GUI:LADDERRANDOMFACTIONS]
 Value=Random army factions:
-Value=随机军队阵营：
+Value=随机军队阵营:
 
 [GUI:LADDERRANDOMMAPS]
 Value=Random maps:
-Value=随机地图：
+Value=随机地图:
 
 [GUI:LADDERRANK]
 Value=Ladder Rank
@@ -17795,7 +17795,7 @@ Value=排名赛排名
 
 [GUI:LADDERURL]
 Value=Homepage: %hs
-Value=首页：%hs
+Value=首页:%hs
 
 [GUI:LADDERWINS]
 Value=Ladder Wins
@@ -17871,7 +17871,7 @@ Value=加载/保存
 
 [GUI:LOADSCREENPLAYERINFO]
 Value=won %d%% of %d   rank: %d
-Value=%d场中胜%d%%场 排名：%d
+Value=%d场中胜%d%%场 排名:%d
 
 [GUI:LOBBYBATTLECAST]
 Value=BattleCast
@@ -18003,7 +18003,7 @@ Value=离开
 
 [GUI:MAPNAME:]
 Value=Map:
-Value=地图：
+Value=地图:
 
 [GUI:MAPPREVIEW]
 Value=Map Preview
@@ -18031,11 +18031,11 @@ Value=为我配对
 
 [GUI:MAXDISCONNECTS]
 Value=Max Disconnects Allowed:
-Value=允许的最高连接中断数：
+Value=允许的最高连接中断数:
 
 [GUI:MAXPOINTPERCENT]
 Value=Max Win Percent Allowed:
-Value=允许的最高胜率：
+Value=允许的最高胜率:
 
 [GUI:MAXSELECTIONSIZE]
 Value=You can only select %d units at one time.
@@ -18071,7 +18071,7 @@ Value=信息已启用。
 
 [GUI:MINPOINTPERCENT]
 Value=Min Win Percent Required:
-Value=要求的最低胜率：
+Value=要求的最低胜率:
 
 [GUI:MINSPECFAILEDMESSAGE]
 Value=Your system does not meet the minimum hardware requirements.  You may experience slower than normal frame rates in your multiplayer games.
@@ -18153,7 +18153,7 @@ Value=您必须拥有管理员权限才能安装升级补丁。
 Value=An update to Red Alert 3: Uprising is available.
 ValueLine2=
 ValueLine3=Press OK to exit the game and download the update now, or press Cancel to continue on to the main menu.
-Value=《红色警戒3：起义时刻》有可用更新。
+Value=《红色警戒3:起义时刻》有可用更新。
 ValueLine2=
 ValueLine3=按“确定”退出游戏并立即下载更新，或按“取消”继续进入主菜单。
 
@@ -18167,7 +18167,7 @@ Value=我的个人资料
 
 [GUI:NATNEGOTIATIONFAILED]
 Value=Red Alert 3 is unable to connect to other player(s).  If the problem persists, and you have a NAT or Firewall device or software:  Click on the Refresh NAT button in the options menu.  If you have a DLink device, click the Send Delay button in the options menu.  If you are still unable to connect, consider opening a port in your firewall.  Consult the manual and readme for details.
-Value=《红色警戒3》无法连接到其他玩家。如果问题仍然存在，并且您使用了NAT或防火墙设备/软件：请在选项菜单中单击“刷新NAT”按钮。如果您使用的是DLink设备，请在选项菜单中单击“发送延迟”按钮。如果仍然无法连接，请考虑在防火墙中开放端口。详情请参阅手册和README文件。
+Value=《红色警戒3》无法连接到其他玩家。如果问题仍然存在，并且您使用了NAT或防火墙设备/软件:请在选项菜单中单击“刷新NAT”按钮。如果您使用的是DLink设备，请在选项菜单中单击“发送延迟”按钮。如果仍然无法连接，请考虑在防火墙中开放端口。详情请参阅手册和README文件。
 
 [GUI:NATNOTREADY]
 Value=Connections are in progress, or connection problem detected. Please click the Connections button where you can check every player's connection and retry.
@@ -18291,7 +18291,7 @@ Value=
 
 [GUI:NUMPLAYERS]
 Value=Players:
-Value=玩家数：
+Value=玩家数:
 
 [GUI:OBJECTIVE_SUMMARY_PREFIX]
 Value=%d.
@@ -18303,7 +18303,7 @@ Value=无法完成目标
 
 [GUI:OBJECTIVES:]
 Value=Summary:
-Value=概要：
+Value=概要:
 
 [GUI:OBSERVER]
 Value=Observer
@@ -18351,7 +18351,7 @@ Value=战队 2v2
 
 [GUI:ONLINEIPADDRESSES]
 Value=Online IP:
-Value=在线 IP：
+Value=在线 IP:
 
 [GUI:ONLINERANKED1V1GAME]
 Value=Ranked 1v1
@@ -18503,7 +18503,7 @@ Value=玩家
 
 [GUI:PLAYERS:]
 Value=Players:
-Value=玩家：
+Value=玩家:
 
 [GUI:PLAYERSNAME]
 Value=Opponent's Name
@@ -18619,7 +18619,7 @@ ValueLine2=
 ValueLine3=Back Online In: %s
 Value=雷达被干扰！
 ValueLine2=
-ValueLine3=恢复时间：%s
+ValueLine3=恢复时间:%s
 
 [GUI:RALLYPOINTNOPATH]
 Value=Unable to set rally point
@@ -18683,7 +18683,7 @@ Value=删除好友
 
 [GUI:REPLAYDOESNOTEXIST]
 Value=Unable to load replay : \"%hs\"
-Value=无法读取录像存档：\"%hs\"
+Value=无法读取录像存档:\"%hs\"
 
 [GUI:REPLAYMENU]
 Value=LOAD
@@ -18763,7 +18763,7 @@ Value=返回游戏
 
 [GUI:RULECHANGEWARNING]
 Value=Host changed rule:
-Value=主持人更改规则：
+Value=主持人更改规则:
 
 [GUI:RULERESETWARNING]
 Value=The game host has reset the rules to their defaults
@@ -19103,7 +19103,7 @@ Value=3D阴影
 
 [GUI:SHORTDESCRIPTION]
 Value=Short description of the game:
-Value=游戏简短说明：
+Value=游戏简短说明:
 
 [GUI:SHOW_SUBTITLES]
 Value=Enable Subtitles
@@ -19275,7 +19275,7 @@ Value=目标完成
 
 [GUI:TACTICALOBJECTIVEINDICATORPOPUPTITLE]
 Value=Objective %d:
-Value=目标%d：
+Value=目标%d:
 
 [GUI:TACTICALOBJECTIVEINTROPROMPT]
 Value=Click here to view
@@ -19583,7 +19583,7 @@ ValueLine2=
 ValueLine3=The display mode will automatically revert in 10 seconds.
 ValueLine4=
 ValueLine5=Do you wish to keep the current display mode?
-Value=警告：将图形设置提高至推荐默认值以上可能会导致性能问题。
+Value=警告:将图形设置提高至推荐默认值以上可能会导致性能问题。
 ValueLine2=
 ValueLine3=显示模式将会在 10 秒后自动恢复。
 ValueLine4=
@@ -22315,7 +22315,7 @@ Value=单位与技能
 
 [MAPTRANSFER:CURRENTFILE]
 Value=Current file: %ls
-Value=目前文件：%ls
+Value=目前文件:%ls
 
 [MAPTRANSFER:DONE]
 Value=Done
@@ -22339,7 +22339,7 @@ Value=发送中……
 
 [MAPTRANSFER:TIMEOUT]
 Value=Abort in %d:%2.2d
-Value=将于 %d：%2.2d 后中止
+Value=将于 %d:%2.2d 后中止
 
 [MESSAGE:STEALTHNEUTRALIZED]
 Value=Disguised Unit Discovered
@@ -23392,7 +23392,7 @@ Value=彻底摧毁拘留营
 
 [MISSIONOBJ:EP1_Y02_Obj_2A_Desc]
 Value=Having devastated the Detention Camp, Yuriko is compelled to return to the Empire of the Rising Sun--specifically to Shiro Psychic Research--in order to take care of some unfinished business.
-Value=摧毁拘留营后，百合子动身返回旭日帝国——直指神罗心灵研究中心——去处理一些未了的恩怨。
+Value=摧毁拘留营后，百合子动身返回旭日帝国，直指神罗心灵研究中心，她要处理一些未了的恩怨。
 
 [MISSIONOBJ:EP1_Y02_Obj_2A_Title]
 Value=Head Back to the Empire
@@ -23592,7 +23592,7 @@ Value=阻止盟军移动基地车
 
 [MISSIONOBJ:J05_OBJECTIVE_2_COUNTDOWN]
 Value=Bonus Objective Time Remaining:
-Value=剩余的额外目标时间：
+Value=剩余的额外目标时间:
 
 [MISSIONOBJ:J05_OBJECTIVE_2_DESC]
 Value=The floating fortress is in peril. Repair it immediately by sending Engineers into its two Power Cores, and it should stabilize.
@@ -24220,7 +24220,7 @@ Value=学习情景攻击
 
 [MISSIONOBJ:T03_OBJECTIVE1_DESC]
 Value=Try out the special abilities of the Allied Cryocopter, Allied Hydrofoil, and Imperial Mecha Tengu by selecting the unit and pressing its ability button or the "F" key.
-Value=选择单位并按下其技能按钮或“F”键，试试盟军冰冻直升机、水翼船和帝国天狗机甲的特殊技能。
+Value=选择单位并按下其技能按钮或“F”键，试试盟军冰冻直升机、水翼船和帝国机甲天狗的特殊技能。
 
 [MISSIONOBJ:T03_OBJECTIVE3_DESC]
 Value=Use contextual attacks to dispose of the Conscripts (or hide amongst them) by selecting Tanya (or the Spy) and right-clicking on the enemy.
@@ -24548,7 +24548,7 @@ Value=库可夫将军向指挥官作自我介绍。
 
 [MOVIE:A01MM01_NAME]
 Value=Allies Chapter 1: Intermission
-Value=盟军章节一：中断
+Value=盟军章节一:中断
 
 [MOVIE:A03MM01_DESC]
 Value=The Commander has liberated Western Europe from the Soviets.
@@ -24556,7 +24556,7 @@ Value=指挥官将西欧从苏联手中解放。
 
 [MOVIE:A03MM01_NAME]
 Value=Allies Chapter 3: Intermission
-Value=盟军章节三：中断
+Value=盟军章节三:中断
 
 [MOVIE:A06MM01_DESC]
 Value=President Ackerman reveals his rogue plan.
@@ -24564,7 +24564,7 @@ Value=阿克曼总统亮出了他的疯狂计划。
 
 [MOVIE:A06MM01_NAME]
 Value=Allies Chapter 6: Intermission
-Value=盟军章节六：中断
+Value=盟军章节六:中断
 
 [MOVIE:AFS01_DESC]
 Value=Lieutenant Eva explains that the Empire of the Rising Sun's provincial shoguns need to be put down, and introduces an unlikely ally.
@@ -24572,7 +24572,7 @@ Value=伊娃中尉解释了必须镇压旭日帝国各地方将军的必要性�
 
 [MOVIE:AFS01_NAME]
 Value=Allies Chapter 1: Shin Iga Prefecture
-Value=盟军章节一：伊贺国
+Value=盟军章节一:伊贺国
 
 [MOVIE:AFS02_DESC]
 Value=Eva reveals the location of another Rising Sun shogun who threatens the Allies' postwar plans, while Prince Tatsu provides additional direction.
@@ -24580,7 +24580,7 @@ Value=伊娃揭露了另一位威胁盟军战后计划的帝国将军的藏身�
 
 [MOVIE:AFS02_NAME]
 Value=Allies Chapter 2: Osaka
-Value=盟军章节二：大阪
+Value=盟军章节二:大阪
 
 [MOVIE:AFS03_DESC]
 Value=Eva implores the Commander to take on one last Imperial shogun who stands in the way of peace. Tatsu asks for no restraint to be used in this final attack.
@@ -24588,7 +24588,7 @@ Value=伊娃恳请指挥官对付最后一位阻挠和平的帝国将军。达�
 
 [MOVIE:AFS03_NAME]
 Value=Allies Chapter 3: Miyako
-Value=盟军章节三：宫古
+Value=盟军章节三:宫古
 
 [MOVIE:AFS04_DESC]
 Value=Eva congratulates the Commander for putting a stop to the Imperial uprising.
@@ -24604,7 +24604,7 @@ Value=必须摧毁帝国位于北海的浮岛要塞。
 
 [MOVIE:AFS05_NAME]
 Value=Allies Chapter 5: North Sea
-Value=盟军章节五：北海
+Value=盟军章节五:北海
 
 [MOVIE:AFS06_DESC]
 Value=President Ackerman takes matters into his own hands and threatens the alliance with the Soviets. He must be stopped.
@@ -24612,7 +24612,7 @@ Value=阿克曼总统擅自行动，危及了与苏联的同盟关系。必须�
 
 [MOVIE:AFS06_NAME]
 Value=Allies Chapter 6: Mt. Rushmore
-Value=盟军章节六：拉什莫尔山
+Value=盟军章节六:拉什莫尔山
 
 [MOVIE:AFS07_DESC]
 Value=The Empire's Shogunate are assembling in Tokyo. Now is the time to strike.
@@ -24620,7 +24620,7 @@ Value=帝国的将军们正在东京集结。现在正是发动进攻的时机�
 
 [MOVIE:AFS07_NAME]
 Value=Allies Chapter 7: Tokyo Harbor
-Value=盟军章节七：东京港
+Value=盟军章节七:东京港
 
 [MOVIE:AFS08_DESC]
 Value=The Soviet Dr. Zelinsky defects and exposes the Soviet's secret base in Cuba.
@@ -24628,7 +24628,7 @@ Value=苏联的泽林斯基博士叛变，揭露了苏联在古巴的秘密基�
 
 [MOVIE:AFS08_NAME]
 Value=Allies Chapter 8: Havana
-Value=盟军章节八：哈瓦那
+Value=盟军章节八:哈瓦那
 
 [MOVIE:AFS09_DESC]
 Value=At last, it is time to overthrow the Soviet leaders holed up in Leningrad.
@@ -24636,7 +24636,7 @@ Value=终于到了推翻盘踞在列宁格勒的苏联领导人的时刻。
 
 [MOVIE:AFS09_NAME]
 Value=Allies Chapter 9: Leningrad
-Value=盟军章节九：列宁格勒
+Value=盟军章节九:列宁格勒
 
 [MOVIE:AFS10_DESC]
 Value=Thanks to the Commander's efforts, the Soviet leaders are brought to justice.
@@ -24676,7 +24676,7 @@ Value=将军刽子手诞生。
 
 [MOVIE:J03MM01_NAME]
 Value=Rising Sun Chapter 3: Intermission
-Value=旭日帝国章节三：中断
+Value=旭日帝国章节三:中断
 
 [MOVIE:JFS01_DESC]
 Value=Prince Tatsu asks the Commander to aid in the defense of the Empire of the Rising Sun, whose borders are being threatened by Soviet forces.
@@ -24684,7 +24684,7 @@ Value=达郎王子请求指挥官协助保卫旭日帝国，帝国的边境正�
 
 [MOVIE:JFS01_NAME]
 Value=Rising Sun Chapter 1: Sakhalin Island
-Value=旭日帝国章节一：萨哈林岛
+Value=旭日帝国章节一:萨哈林岛
 
 [MOVIE:JFS02_DESC]
 Value=Tatsu reveals that the Soviets have diverted their forces to move against Oki Island, which is sacred to the Empire, and asks the Commander to stop them.
@@ -24692,7 +24692,7 @@ Value=达郎指出，苏联已改变进军方向，正前往对帝国而言神�
 
 [MOVIE:JFS02_NAME]
 Value=Rising Sun Chapter 2: Oki Island
-Value=旭日帝国章节二：隐岐岛
+Value=旭日帝国章节二:隐岐岛
 
 [MOVIE:JFS03_DESC]
 Value=Tatsu plots a strike against the Soviet port at Vladivostok, to exact revenge against those responsible for the recent attacks against the Empire.
@@ -24700,7 +24700,7 @@ Value=达郎策划对苏联海参崴港口发动攻击，向那些对帝国发�
 
 [MOVIE:JFS03_NAME]
 Value=Rising Sun Chapter 3: Vladivostok
-Value=旭日帝国章节三：海参威
+Value=旭日帝国章节三:海参威
 
 [MOVIE:JFS04_DESC]
 Value=Tatsu graciously thanks the Commander for defeating the Soviet forces and taking the Empire one step closer to its destiny.
@@ -24716,7 +24716,7 @@ Value=盟军的第二支攻击部队正前往日本本土。必须阻止他们�
 
 [MOVIE:JFS05_NAME]
 Value=Rising Sun Chapter 5: Pacific Ocean
-Value=旭日帝国章节五：太平洋
+Value=旭日帝国章节五:太平洋
 
 [MOVIE:JFS06_DESC]
 Value=The Emperor wants to take control of Los Angeles, the media hub of the West.
@@ -24724,7 +24724,7 @@ Value=天皇想要控制洛杉矶，西方世界的媒体中心。
 
 [MOVIE:JFS06_NAME]
 Value=Rising Sun Chapter 6: Santa Monica
-Value=旭日帝国章节六：圣莫尼卡
+Value=旭日帝国章节六:圣莫尼卡
 
 [MOVIE:JFS07_DESC]
 Value=The Emperor and Tatsu discover an unexpected truth concerning their destiny.
@@ -24732,7 +24732,7 @@ Value=天皇与达郎发现了一个关于自身命运的惊人真相。
 
 [MOVIE:JFS07_NAME]
 Value=Rising Sun Chapter 7: Yokohama Harbor
-Value=旭日帝国章节七：横滨港
+Value=旭日帝国章节七:横滨港
 
 [MOVIE:JFS08_DESC]
 Value=Prince Tatsu sends the Commander to Moscow to destroy the device that endangers the Empire.
@@ -24740,7 +24740,7 @@ Value=达郎王子派指挥官前往莫斯科，摧毁那台威胁帝国安危�
 
 [MOVIE:JFS08_NAME]
 Value=Rising Sun Chapter 8: Moscow
-Value=旭日帝国章节八：莫斯科
+Value=旭日帝国章节八:莫斯科
 
 [MOVIE:JFS09_DESC]
 Value=Prince Tatsu and the Emperor find common ground amid the defeat of the Soviet Union. Now it's time for the final attack against their enemies.
@@ -24748,7 +24748,7 @@ Value=达郎王子与天皇在苏联战败之际找到了共同立场。现在�
 
 [MOVIE:JFS09_NAME]
 Value=Rising Sun Chapter 9: Amsterdam
-Value=旭日帝国章节九：阿姆斯特丹
+Value=旭日帝国章节九:阿姆斯特丹
 
 [MOVIE:JFS10_DESC]
 Value=The Empire of the Rising Sun is victorious. The Commander is given a special honor.
@@ -24760,7 +24760,7 @@ Value=旭日帝国战役尾声
 
 [MOVIE:RECAPFS_DESC]
 Value=A brief history of how the Allies managed to end an explosive world war, which led to the events of Red Alert 3: Uprising.
-Value=盟军终结激烈世界大战的历程，以及《红色警戒3：起义时刻》的由来。
+Value=盟军终结激烈世界大战的历程，以及《红色警戒3:起义时刻》的由来。
 
 [MOVIE:RECAPFS_NAME]
 Value=Red Alert 3 Recap
@@ -24772,7 +24772,7 @@ Value=查丹科总理对指挥官另有安排。
 
 [MOVIE:S08MM01_NAME]
 Value=Soviets Chapter 8: Intermission
-Value=苏联章节八：中断
+Value=苏联章节八:中断
 
 [MOVIE:SFS00A_DESC]
 Value=The leaders of the Soviet Union resort to a desperate plan to save themselves from imminent doom.
@@ -24788,7 +24788,7 @@ Value=旭日帝国开始对苏联发动压倒性的、突如其来的进攻。
 
 [MOVIE:SFS00B_NAME]
 Value=Red Alert 3 Prologue: The Invasion
-Value=《红色警戒3》序幕：入侵
+Value=《红色警戒3》序幕:入侵
 
 [MOVIE:SFS01_DESC]
 Value=European Union President Thornley declares that all is well in the recently-demilitarized Soviet Union, even as Soviet resistance forces, led by Information Officer Dasha, plan a rescue mission.
@@ -24796,7 +24796,7 @@ Value=欧盟总统索恩利宣称，近期已完成去军事化的苏联境内�
 
 [MOVIE:SFS01_NAME]
 Value=Soviets Chapter 1: Romania
-Value=苏联章节一：罗马尼亚
+Value=苏联章节一:罗马尼亚
 
 [MOVIE:SFS02_DESC]
 Value=The Allies enter into a lucrative agreement with a technology firm called FutureTech, while Dasha reveals that the very same firm has established a facility on Soviet soil.
@@ -24804,7 +24804,7 @@ Value=盟军与一家名为未来科技的科技公司签订了一份利润丰�
 
 [MOVIE:SFS02_NAME]
 Value=Soviets Chapter 2: Murmansk
-Value=苏联章节二：摩尔曼斯克
+Value=苏联章节二:摩尔曼斯克
 
 [MOVIE:SFS03_DESC]
 Value=Thornley avoids questions about FutureTech's true intentions as Dasha organizes an offensive against a larger FutureTech compound traced to the Yucatan.
@@ -24812,7 +24812,7 @@ Value=索恩利对有关未来科技真实意图的问题避而不答，而达�
 
 [MOVIE:SFS03_NAME]
 Value=Soviets Chapter 3: Yucatan
-Value=苏联章节三：尤卡坦
+Value=苏联章节三:尤卡坦
 
 [MOVIE:SFS04_DESC]
 Value=FutureTech is said to be in final preparations to activate a massive structure called the Sigma Harmonizer, but Dasha and the Soviet resistance have contrary plans.
@@ -24820,7 +24820,7 @@ Value=据称未来科技已进入启动一座名为“西格玛协调器”的�
 
 [MOVIE:SFS04_NAME]
 Value=Soviets Chapter 4: Sigma Island
-Value=苏联章节四：西格玛岛
+Value=苏联章节四:西格玛岛
 
 [MOVIE:SFS05_DESC]
 Value=FutureTech's spokesperson publicly apologizes for the firm's recent gaffes while Dasha praises the Commander of the Soviet resistance forces for securing the Union.
@@ -24836,15 +24836,15 @@ Value=总理在死里逃生后，命令指挥官攻击盟军在冰岛的战略�
 
 [MOVIE:SFS06_NAME]
 Value=Soviets Chapter 6: Iceland
-Value=苏联章节六：冰岛
+Value=苏联章节六:冰岛
 
 [MOVIE:SFS07_DESC]
 Value=The Premier assigns the newly-promoted Commander with a bold mission to eliminate the Emperor of Japan at his palace in the heart of the country.
-Value=总理指派新晋升的指挥官一项大胆任务：潜入天皇宫殿，消灭日本天皇。
+Value=总理指派新晋升的指挥官一项大胆任务:潜入天皇宫殿，消灭日本天皇。
 
 [MOVIE:SFS07_NAME]
 Value=Soviets Chapter 7: Mt. Fuji
-Value=苏联章节七：富士山
+Value=苏联章节七:富士山
 
 [MOVIE:SFS08_DESC]
 Value=The Premier sets up a trap for the Allies in the form of a false peace treaty.
@@ -24852,15 +24852,15 @@ Value=总理以一份虚假的和平条约为饵，为盟军设下陷阱。
 
 [MOVIE:SFS08_NAME]
 Value=Soviets Chapter 8: Easter Island
-Value=苏联章节八：复活节岛
+Value=苏联章节八:复活节岛
 
 [MOVIE:SFS09_DESC]
 Value=The Premier's seat of power has been vacated, leaving but one task remaining: The final defeat of the Americans, led by their President Ackerman.
-Value=总理的权力宝座已被腾空，只剩下最后一个任务：彻底击败由阿克曼总统领导的美国军队。
+Value=总理的权力宝座已被腾空，只剩下最后一个任务:彻底击败由阿克曼总统领导的美国军队。
 
 [MOVIE:SFS09_NAME]
 Value=Soviets Chapter 9: New York City
-Value=苏联章节九：纽约市
+Value=苏联章节九:纽约市
 
 [MOVIE:SFS10_DESC]
 Value=The Commander has finally triumphed over the Soviet Union's mortal enemies and earned the distinguished title of Premier.
@@ -24876,7 +24876,7 @@ Value=一份特别报道，揭露了欧米伽百合子在成为升阳帝国臭�
 
 [MOVIE:YFS01_NAME]
 Value=Yuriko Chapter 1: Shiro Psychic Research
-Value=百合子章节一：神罗心灵研究中心
+Value=百合子章节一:神罗心灵研究中心
 
 [MOVIE:YFS02_DESC]
 Value=The report on Yuriko Omega continues to describe her detainment in an Allied prison camp, following the defeat of the Empire.
@@ -24884,7 +24884,7 @@ Value=关于欧米伽百合子的后续报道，记述了帝国战败后，她�
 
 [MOVIE:YFS02_NAME]
 Value=Yuriko Chapter 2: Detention Camp Dakota
-Value=百合子章节二：达科他拘留营
+Value=百合子章节二:达科他拘留营
 
 [MOVIE:YFS03_DESC]
 Value=The report on Yuriko concludes with speculative remarks about Yuriko's escape and future plans.
@@ -24892,7 +24892,7 @@ Value=关于百合子的报道进入尾声，对她在战俘营的逃脱过程�
 
 [MOVIE:YFS03_NAME]
 Value=Yuriko Chapter 3: Shiro Psychic Research (Renovated)
-Value=百合子章节三：神罗心灵研究中心（重建）
+Value=百合子章节三:神罗心灵研究中心（重建）
 
 [MOVIE:YFS04_DESC]
 Value=Having buried the ghosts of her past, Yuriko's mind is finally at ease, if only for a fleeting moment.
@@ -27780,67 +27780,67 @@ Value=加入随机宝箱
 
 [SAVEGAME:J02_OBJ_1]
 Value=Rising Sun Campaign - Mission 2 - Objective: Establish a base
-Value=旭日战役 - 任务 2 - 目标：建立一个基地
+Value=旭日战役 - 任务 2 - 目标:建立一个基地
 
 [SAVEGAME:J02_OBJ_2]
 Value=Rising Sun Campaign - Mission 2 - Objective: Destroy the Statue
-Value=旭日战役 - 任务 2 - 目标：摧毁雕像
+Value=旭日战役 - 任务 2 - 目标:摧毁雕像
 
 [SAVEGAME:J02_OBJ_3]
 Value=Rising Sun Campaign - Mission 2 - Objective: Escort the Transports
-Value=旭日战役 - 任务 2 - 目标：保护运兵车
+Value=旭日战役 - 任务 2 - 目标:保护运兵车
 
 [SAVEGAME:J03_OBJ_1]
 Value=Rising Sun Campaign - Mission 3 - Objective: Escort the Transports
-Value=旭日战役 - 任务 3 - 目标：保护运输船
+Value=旭日战役 - 任务 3 - 目标:保护运输船
 
 [SAVEGAME:J03_OBJ_2]
 Value=Rising Sun Campaign - Mission 3 - Objective: Destroy the Artillery
-Value=旭日战役 - 任务 3 - 目标：摧毁火炮
+Value=旭日战役 - 任务 3 - 目标:摧毁火炮
 
 [SAVEGAME:J03_OBJ_3]
 Value=Rising Sun Campaign - Mission 3 - Objective: Destroy General Krukov
-Value=旭日战役 - 任务 3 - 目标：干掉库可夫将军
+Value=旭日战役 - 任务 3 - 目标:干掉库可夫将军
 
 [SAVEGAME:J07_OBJ_1]
 Value=Rising Sun Campaign - Mission 7 - Objective: Retake the Forward Bases
-Value=旭日战役 - 任务 7 - 目标：夺回前线基地
+Value=旭日战役 - 任务 7 - 目标:夺回前线基地
 
 [SAVEGAME:J07_OBJ_2]
 Value=Rising Sun Campaign - Mission 7 - Objective: Defend the Forward Bases
-Value=旭日战役 - 任务 7 - 目标：保护前进基地
+Value=旭日战役 - 任务 7 - 目标:保护前进基地
 
 [SAVEGAME:J07_OBJ_3]
 Value=Rising Sun Campaign - Mission 7 - Objective: Destroy the Relay Stations
-Value=旭日战役 - 任务 7 - 目标：摧毁中继站
+Value=旭日战役 - 任务 7 - 目标:摧毁中继站
 
 [SAVEGAME:J08_OBJ_1]
 Value=Rising Sun Campaign - Mission 8 - Objective: Hold out for the Shogun Executioner
-Value=旭日战役 - 任务 8 - 目标：坚守至将军刽子手到来
+Value=旭日战役 - 任务 8 - 目标:坚守至将军刽子手到来
 
 [SAVEGAME:J08_OBJ_2]
 Value=Rising Sun Campaign - Mission 8 - Objective: Destroy the Soviets Completely
-Value=旭日战役 - 任务 8 - 目标：歼灭全部苏联
+Value=旭日战役 - 任务 8 - 目标:歼灭全部苏联
 
 [SAVEGAME:J08_OBJ_3]
 Value=Rising Sun Campaign - Mission 8 - Objective: Destroy the Time Machine
-Value=旭日战役 - 任务 8 - 目标：摧毁时间机器
+Value=旭日战役 - 任务 8 - 目标:摧毁时间机器
 
 [SAVEGAME:S08_OBJ_1]
 Value=Soviet Campaign - Mission 8 - Objective: Prepare an Ambush
-Value=苏联战役 - 任务 8 - 目标：做好下一次伏击准备
+Value=苏联战役 - 任务 8 - 目标:做好下一次伏击准备
 
 [SAVEGAME:S08_OBJ_2]
 Value=Soviet Campaign - Mission 8 - Objective: Defeat the Allies
-Value=苏联战役 - 任务 8 - 目标：击败盟军
+Value=苏联战役 - 任务 8 - 目标:击败盟军
 
 [SAVEGAME:S08_OBJ_3]
 Value=Soviet Campaign - Mission 8 - Objective: Destroy the Vacuum Bomb
-Value=苏联战役 - 任务 8 - 目标：摧毁真空内爆弹
+Value=苏联战役 - 任务 8 - 目标:摧毁真空内爆弹
 
 [SAVEGAME:S08_OBJ_4]
 Value=Soviet Campaign - Mission 8 - Objective: Defeat the Premier
-Value=苏联战役 - 任务 8 - 目标：打败总理
+Value=苏联战役 - 任务 8 - 目标:打败总理
 
 [SAVELOAD:ALLIESAUTOSAVENAME]
 Value=Allied Campaign Autosave
@@ -27848,11 +27848,11 @@ Value=盟军战役自动保存
 
 [SAVELOAD:AUTOSAVEFEATUREANDDEVICEWARNING]
 Value=Command & Conquer Red Alert 3 uses an autosave feature to automatically save game progress and settings, and will overwrite saved games without confirmation.
-Value=《命令与征服：红色警戒3》使用自动保存功能自动保存游戏进度及设置，无需确认即覆盖已保存的游戏。
+Value=《命令与征服:红色警戒3》使用自动保存功能自动保存游戏进度及设置，无需确认即覆盖已保存的游戏。
 
 [SAVELOAD:AUTOSAVEFEATUREWARNING]
 Value=Command & Conquer Red Alert 3 uses an autosave feature to automatically save game progress and settings, and will overwrite saved games without confirmation.
-Value=《命令与征服：红色警戒3》使用自动保存功能自动保存游戏进度及设置，无需确认即覆盖已保存的游戏。
+Value=《命令与征服:红色警戒3》使用自动保存功能自动保存游戏进度及设置，无需确认即覆盖已保存的游戏。
 
 [SAVELOAD:AUTOSAVETYPE]
 Value=Autosave
@@ -27976,7 +27976,7 @@ Value==坠落在这些岛屿上的航天器，比所有科幻大片里出现的�
 
 [SCENARIO:DESCRIPTION_08]
 Value=Try to imagine, if you will, a battlefield--nay, a world--in which you had ample resources with which to build many, many tanks in order to defeat rival commanders attempting to do the same, in a grand tournament set on an island arena. Our greatest tacticians often say that the tank battle is the essence of modern warfare, and so this territory was created in order to test that theory in a very literal way. We are curious to see how you will fare.
-Value=不妨试想这样一片战场——不，是一方天地：您手握充足资源，能够造出不计其数的坦克，以此击败其他同样厉兵秣马的敌方指挥官。这场宏大竞技，便在一座岛屿竞技场上展开。我们最顶尖的战术家常说，坦克战是现代战争的精髓，而这片领地正是为以最直观的方式验证这一理论而设。我们很想知道，您能交出怎样的答卷。
+Value=不妨试想这样一片战场——不，是一方天地:您手握充足资源，能够造出不计其数的坦克，以此击败其他同样厉兵秣马的敌方指挥官。这场宏大竞技，便在一座岛屿竞技场上展开。我们最顶尖的战术家常说，坦克战是现代战争的精髓，而这片领地正是为以最直观的方式验证这一理论而设。我们很想知道，您能交出怎样的答卷。
 
 [SCENARIO:DESCRIPTION_09]
 Value=Commander Lydia is one of the Allies' top brains, and here she is gathering soil samples for some of her latest science experiments. You see, this territory is unusually low on ore... The implications of an ore-free world are deeply disturbing so we had best get to the bottom of this before she does. In order to avoid any setbacks, we are granting you 10 times the usual amount of credits for this operation. Best spend them wisely. As for Lydia, she is said to be less conservative than she looks. But even she cannot spend forever.
@@ -28028,7 +28028,7 @@ Value=看来您上次击败莫斯克文指挥官的事，给这个小伙子留�
 
 [SCENARIO:DESCRIPTION_21]
 Value=Get this: The Empire somehow snuck one of those Nanocores across the ocean all the way out here. Not only that, it contains plans for their biggest and most powerful stationary weapon. How about we do the locals a favor and take care of it? In so doing, we stand to learn a great deal about their unusual research into psionics. That stubborn has-been Shinzo has sworn to protect the weapon, but you should be able to make him break that promise, just as long as you can break through all his defenses.
-Value=您听听这个：帝国不知用了什么办法，竟然把一枚纳米核心千里迢迢运到了这里。这还不止，核心里面还存着他们最庞大的固定式武器的设计蓝图。我们何不替当地居民做件好事，把这东西给毁了？要是得手了，我们还能顺带深入了解他们那些不寻常的超能波研究。晋三那个顽固的老家伙发誓要誓死守护这件武器，不过只要您能撕开他的防线，让他食言也不是什么难事。
+Value=您听听这个:帝国不知用了什么办法，竟然把一枚纳米核心千里迢迢运到了这里。这还不止，核心里面还存着他们最庞大的固定式武器的设计蓝图。我们何不替当地居民做件好事，把这东西给毁了？要是得手了，我们还能顺带深入了解他们那些不寻常的超能波研究。晋三那个顽固的老家伙发誓要誓死守护这件武器，不过只要您能撕开他的防线，让他食言也不是什么难事。
 
 [SCENARIO:DESCRIPTION_22]
 Value=Well isn't this sweet. It seems the good Commanders Giles and Vera are becoming awfully friendly with one another, as they've set aside their differences after the last time you dealt with them. They're now looking to use the combined might of the Allied and Soviet air forces against you. We can't have them colluding with one another, so please go ahead and show their little planes to the ground. That ought to darken the skies over their little relationship.
@@ -28060,7 +28060,7 @@ Value=我们生活的这个世界确实危险，更别提像吉尔利斯那种�
 
 [SCENARIO:DESCRIPTION_29]
 Value=This remote island is used to sort and maintain the Empire of the Rising Sun's Nanocore units, and right at this moment, the self-assured Commander Kenji happens to be using them to practice some new tactics. It would be useful to know what he has in mind, exactly, so please go ahead and take a look. Whatever he's planning, expect him to heavily rely on those Nanocores here.
-Value=这座偏远小岛是用来分检和维护帝国纳米核心单位的。眼下，自信满满的贤治指挥官正巧在利用它们演练某种新战术。能弄清楚他到底在打什么算盘就好了——麻烦您跑一趟，去探个究竟吧。无论他有什么计划，有一点可以肯定：他在这里必定会重度依赖那些纳米核心。
+Value=这座偏远小岛是用来分检和维护帝国纳米核心单位的。眼下，自信满满的贤治指挥官正巧在利用它们演练某种新战术。能弄清楚他到底在打什么算盘就好了——麻烦您跑一趟，去探个究竟吧。无论他有什么计划，有一点可以肯定:他在这里必定会重度依赖那些纳米核心。
 
 [SCENARIO:DESCRIPTION_30]
 Value=The Allies' Commander Giles fancies himself to be quite the airman, and this happens to be the place where he trains his squadrons in all their annoying tactics. So how about you clip their wings? Dealing with Giles may be a bit troublesome for you, since the long stretches of terrain here are going to give those aircraft plenty of breathing room. But you've seen a few of his tricks by now. And soon we'll know them all--our ground teams will recover as many black boxes as possible once you're finished here.
@@ -28076,7 +28076,7 @@ Value=虽然实战历练大概能磨练技术和意志，但这终究是个危�
 
 [SCENARIO:DESCRIPTION_33]
 Value=We were surprised to learn that the Soviets made significant advances to their Iron Curtain technology and are now able to render an entire area indefinitely enshrouded in the Curtain's effect, with little additional power requirement. We promptly captured one of these advanced Iron Curtains, though sadly, our engineers on the inside were discovered. They knew the risks, of course, and you know the drill: Destroy Commander Oleg's forces and his Iron Curtain, so that we can commence evacuation operations.
-Value=我们意外得知苏联在铁幕技术上取得了重大突破，现在他们只需少量额外电力，就能让一整片区域无限期地笼罩在铁幕效果之下。我们迅速缴获了一台这种新型铁幕装置，可惜的是，潜伏在其中的我方工程师已经暴露了。当然，他们早就清楚此行的风险。接下来的事您也熟门熟路：摧毁欧列格指挥官的部队和他的铁幕，我们才能开始撤离行动。
+Value=我们意外得知苏联在铁幕技术上取得了重大突破，现在他们只需少量额外电力，就能让一整片区域无限期地笼罩在铁幕效果之下。我们迅速缴获了一台这种新型铁幕装置，可惜的是，潜伏在其中的我方工程师已经暴露了。当然，他们早就清楚此行的风险。接下来的事您也熟门熟路:摧毁欧列格指挥官的部队和他的铁幕，我们才能开始撤离行动。
 
 [SCENARIO:DESCRIPTION_34]
 Value=Your old friend Commander Hill has seen his share of explosive warzones in his day, so perhaps that explains why he opted to look after this dumping ground for unused munitions. Unfortunately for him, we need it. There's so much TNT here that you had better watch your step. Commander Hill had better do the same, assuming you can figure out how to use all those fireworks to your advantage.
@@ -28388,11 +28388,11 @@ Value=排名 8
 
 [SCIENCE:SKILLPOINTS]
 Value=Skill Points: %d
-Value=技能点数：%d
+Value=技能点数:%d
 
 [SCRIPT:A01_IFV_COUNTER]
 Value=IFVs Built:
-Value=建造的多功能步兵战车：
+Value=建造的多功能步兵战车:
 
 [SCRIPT:A01_INFO_HOSPITAL]
 Value=Use an Engineer to capture this Hospital to make your infantry heal automatically over time.
@@ -28412,7 +28412,7 @@ Value=您现在已获准建造装甲工厂。
 
 [SCRIPT:A01_Javelin_Counter]
 Value=Javelins Trained:
-Value=已训练的标枪兵：
+Value=已训练的标枪兵:
 
 [SCRIPT:A01_TEMP_JAV01]
 Value=Javelin Soldiers are now authorized in the defense of this area. Train them from the Boot Camp.
@@ -28420,7 +28420,7 @@ Value=标枪兵现已获准用于本区域防御。从新兵训练营训练他�
 
 [SCRIPT:A01_TIMER_01]
 Value=Soviet Forces Incoming:
-Value=苏联部队抵达倒计时：
+Value=苏联部队抵达倒计时:
 
 [SCRIPT:A02_HINT_TECH_UNLOCKED]
 Value=Player 1, you've been giving a conyard and war factory. More units are at your disposal now.
@@ -28468,19 +28468,19 @@ Value=A04 - 摧毁帝国基地
 
 [SCRIPT:A04_FAILTEXT_ALLUANDS_LOST]
 Value=Abort Mission: All Structures have been destroyed.
-Value=任务失败：所有建筑已被摧毁。
+Value=任务失败:所有建筑已被摧毁。
 
 [SCRIPT:A04_FAILTEXT_BROKENEGGS]
 Value=Abort Mission:  All production Cores have been destroyed.
-Value=任务失败：所有生产核心已被摧毁。
+Value=任务失败:所有生产核心已被摧毁。
 
 [SCRIPT:A04_FAILTEXT_NATASHADEATH]
 Value=Abort Mission: Natasha died!
-Value=任务失败：娜塔莎阵亡！
+Value=任务失败:娜塔莎阵亡！
 
 [SCRIPT:A04_FAILTEXT_TANYADEATH]
 Value=Abort Mission: Tanya has died!
-Value=任务失败：谭雅阵亡！
+Value=任务失败:谭雅阵亡！
 
 [SCRIPT:A04_INFOBOX_ASSAULTDESTROYER]
 Value=The Assault Destroyer is amphibious. You can order it to move up onto land.
@@ -28500,11 +28500,11 @@ Value=若谭雅身处险境，使用她的时空腰带技能，让她瞬间回�
 
 [SCRIPT:A04_KILLCOUNTER_DISPLAY_P1]
 Value=Tanya Kills:
-Value=谭雅杀敌数：
+Value=谭雅杀敌数:
 
 [SCRIPT:A04_KILLCOUNTER_DISPLAY_P2]
 Value=Natasha Kills:
-Value=娜塔莎杀敌数：
+Value=娜塔莎杀敌数:
 
 [SCRIPT:A04_REVEAL_CRYOCOPTERS]
 Value=Cryocopters now available. These support aircraft can freeze enemy units and defenses.
@@ -28540,11 +28540,11 @@ Value=选择雷达船，执行合作指挥官出击，让娜塔莎摧毁它。
 
 [SCRIPT:A05_OBJECTIVE_1_INTELLIGENCETIMER]
 Value=Protect Salvage Ship For:
-Value=在以下时间内保护打捞驳船：
+Value=在以下时间内保护打捞驳船:
 
 [SCRIPT:A05_OBJECTIVE_3_REACTORTIMER]
 Value=Reactor Unstable For:
-Value=反应堆不稳定倒计时：
+Value=反应堆不稳定倒计时:
 
 [SCRIPT:A06_SAVEGAME_OBJ2]
 Value=Allies Mission Autosave
@@ -28572,7 +28572,7 @@ Value=苏联援军正在赶来。与苏联联手，你们应该能够击溃帝�
 
 [SCRIPT:A07_OBJECTIVE_1_SUPWEP_COUNTDOWN]
 Value=Soviets Arriving In:
-Value=苏联抵达倒计时：
+Value=苏联抵达倒计时:
 
 [SCRIPT:A07_OBJECTIVE_2_DESC]
 Value=We need to use the Chronosphere to split our forces.  One Commander will need to set up a Construction Yard or Outpost across the harbor.
@@ -28608,11 +28608,11 @@ Value=达郎王子精锐的舰队已抵达保卫帝国。这支舰队将不择�
 
 [SCRIPT:A08_COUNTER_KIROVS_REMAINING]
 Value=Kirovs in the Sky:
-Value=空中基洛夫数量：
+Value=空中基洛夫数量:
 
 [SCRIPT:A08_COUNTER_KLFS_REMAINING]
 Value=Launch Facilities Remaining:
-Value=剩余的发射台：
+Value=剩余的发射台:
 
 [SCRIPT:A08_HINTS_BRIBEHINT]
 Value=Use the Spy's bribe ability to lure Soviets to fight with you.
@@ -28636,7 +28636,7 @@ Value=A09 - 太空竞赛
 
 [SCRIPT:A09_COUNTER_IRONCURTAINS]
 Value=Iron Curtains:
-Value=铁幕数量：
+Value=铁幕数量:
 
 [SCRIPT:A09_HINT_USETANYA]
 Value=The Shuttle Platform is very fortified.  Find a way to get Tanya inside to take it out quickly.
@@ -28644,11 +28644,11 @@ Value=发射台防御非常坚固。想办法让谭雅进入内部，快速将�
 
 [SCRIPT:A09_LOSS_MCVDESTROYED]
 Value=Mission Failed: a player has lost their MCV.
-Value=任务失败：一名指挥官已失去其移动基地车。
+Value=任务失败:一名指挥官已失去其移动基地车。
 
 [SCRIPT:A09_LOSS_UNPACKWRONG]
 Value=Mission Failed: a player has unpacked outside the chrono drop zone.
-Value=任务失败：一名玩家在超时空传送区域以外展开了基地。
+Value=任务失败:一名玩家在超时空传送区域以外展开了基地。
 
 [SCRIPT:A09_TEMP_BONUSOBJECTIVE1DESC]
 Value=The Soviets have built a Vacuum Imploder.  Take it out before it slams your base.
@@ -28656,11 +28656,11 @@ Value=苏联建造了一座真空内爆弹。在它摧毁您基地之前将其�
 
 [SCRIPT:A09_TEMP_PART01]
 Value=Part 1: Chrono Drop
-Value=第一幕：超时空传送
+Value=第一幕:超时空传送
 
 [SCRIPT:A09_TEMP_PART02]
 Value=Part 2: The Great Space Race
-Value=第二幕：太空竞赛
+Value=第二幕:太空竞赛
 
 [SCRIPT:A09_TEMP_PART01_DESC]
 Value=Unpack the MCVs at the Chrono Drop Zones.  Don't get crushed!
@@ -28676,11 +28676,11 @@ Value=您现在可以使用质子撞击炮摧毁苏联了。
 
 [SCRIPT:A09_TIMER_CRYOTIME]
 Value=Shrink Expires In:
-Value=缩小结束时间：
+Value=缩小结束时间:
 
 [SCRIPT:A09_TIMER_SHUTTLELAUNCH]
 Value=Shuttle Launch:
-Value=航天飞机发射倒计时：
+Value=航天飞机发射倒计时:
 
 [SCRIPT:AUTOSAVE_J06_OBJ3]
 Value=Three Media Centers Captured
@@ -28700,27 +28700,27 @@ Value=在您发动攻击之前，贤治和晋三会专注于互相缠斗。请�
 
 [SCRIPT:CC03_COUNTER_HILL]
 Value=Hill's Derricks:
-Value=希尔的钻油塔：
+Value=希尔的钻油塔:
 
 [SCRIPT:CC03_COUNTER_KENJI]
 Value=Kenji's Derricks:
-Value=贤治的钻油塔：
+Value=贤治的钻油塔:
 
 [SCRIPT:CC03_COUNTER_VERA]
 Value=Vera's Derricks:
-Value=维拉的钻油塔：
+Value=维拉的钻油塔:
 
 [SCRIPT:CC03_COUNTER_YOU]
 Value=Your Derricks:
-Value=您的钻油塔：
+Value=您的钻油塔:
 
 [SCRIPT:CC08_COUNTER_TANKSTHEM]
 Value=Their Tanks:
-Value=敌人的坦克：
+Value=敌人的坦克:
 
 [SCRIPT:CC08_COUNTER_TANKSYOU]
 Value=Your Tanks:
-Value=您的坦克：
+Value=您的坦克:
 
 [SCRIPT:CC09_INFO_COLLAPSED]
 Value=Your Ore Mine has collapsed!
@@ -28728,39 +28728,39 @@ Value=你的矿脉崩塌了！
 
 [SCRIPT:CC13_COUNTER_SEAWINGS]
 Value=Shinzo's Sea-Wings:
-Value=晋三的海翼数量：
+Value=晋三的海翼数量:
 
 [SCRIPT:CC18_COUNTER_HEALTH]
 Value=Shogun Executioner's Armor:
-Value=将军刽子手的护甲：
+Value=将军刽子手的护甲:
 
 [SCRIPT:CC24_COUNTER_YURIKOS]
 Value=Takara's Yuriko Clones:
-Value=高良的百合子复制人：
+Value=高良的百合子复制人:
 
 [SCRIPT:CC30_TIMER_AIRRAID]
 Value=Annoying Paradrop In:
-Value=烦人的空投倒计时：
+Value=烦人的空投倒计时:
 
 [SCRIPT:CC32_COUNTER_P1]
 Value=Your Veteran Academies:
-Value=您的精兵学院数量：
+Value=您的精兵学院数量:
 
 [SCRIPT:CC32_COUNTER_P2]
 Value=Hill's Veteran Academies:
-Value=希尔的精兵学院数量：
+Value=希尔的精兵学院数量:
 
 [SCRIPT:CC33_COUNTER_CURTAINS]
 Value=Iron Curtains:
-Value=铁幕数量：
+Value=铁幕数量:
 
 [SCRIPT:CC34_COUNTER_BARRELS]
 Value=Barrels Detected:
-Value=已发现的油桶：
+Value=已发现的油桶:
 
 [SCRIPT:CC48_TIMER_CHRONO]
 Value=Unexplained Chro-nomoly In:
-Value=超时空异象倒计时：
+Value=超时空异象倒计时:
 
 [SCRIPT:COOP_AH1_OBJECTIVE_1]
 Value=Destroy the Allied base expansions to the east and west.
@@ -28829,7 +28829,7 @@ Value=围墙已被摧毁，主基地门户大开。
 
 [SCRIPT:COOP_OBJECTIVE_1_COUNTER]
 Value=Signal Transmitters Remaining:
-Value=剩余信号发射器：
+Value=剩余信号发射器:
 
 [SCRIPT:COOP_OBJECTIVE_1_DETAIL]
 Value=Once a single Signal Transmitter is destroyed, both transmitters will automatically regenerate after 30 seconds.
@@ -28841,7 +28841,7 @@ Value=信号发射器已重置！
 
 [SCRIPT:COOP_OBJECTIVE_1_TIMER]
 Value=Signal Transmitters Respawning:
-Value=信号发射器重置倒计时：
+Value=信号发射器重置倒计时:
 
 [SCRIPT:COOP_OBJECTIVE_1_WARNING]
 Value=Signal Transmitter Respawning!
@@ -28849,7 +28849,7 @@ Value=信号发射器重置！
 
 [SCRIPT:COOP_OBJECTIVE_1_WAVES]
 Value=Attack Wave ETA:
-Value=攻击波预计到达时间：
+Value=攻击波预计到达时间:
 
 [SCRIPT:COOP_OBJECTIVE_1_WAVES_INCOMING]
 Value=Attack Wave Incoming!
@@ -28865,11 +28865,11 @@ Value=传入母舰！
 
 [SCRIPT:EP1_A01_ShinzoEscapeTimer]
 Value=Shinzo Escapes In:
-Value=晋三逃脱倒计时：
+Value=晋三逃脱倒计时:
 
 [SCRIPT:EP1_A02_HIVESCOUNTER]
 Value=Nanoswarm Hives Intact:
-Value=剩余纳米虫群巢穴：
+Value=剩余纳米虫群巢穴:
 
 [SCRIPT:EP1_A02_INFOBOX_ENGINEER]
 Value=Send an Engineer into an enemy structure to capture it.
@@ -28889,11 +28889,11 @@ Value=当心侦查单位，例如爆裂机器人，它们能识破间谍的伪�
 
 [SCRIPT:EP1_S01_RECON_DATA]
 Value=Recon Files Collected:
-Value=收集到的侦查档案：
+Value=收集到的侦查档案:
 
 [SCRIPT:EP1_S01_REINFORCEMENTS]
 Value=Reinforcements Arrive In:
-Value=援军抵达倒计时：
+Value=援军抵达倒计时:
 
 [SCRIPT:EP1_S02_INFOBOX_CRYO]
 Value=Use the Cryo Legionnaire's Boost Kick ability to shatter frozen enemies or leap across terrain.
@@ -28901,15 +28901,15 @@ Value=利用冰冻军团的跳跃撞击能力，击碎冻结的敌人，或跨�
 
 [SCRIPT:EP1_S02_TIMER_TO_HOLD_OUT]
 Value=Reinforcements Arrive In:
-Value=援军抵达倒计时：
+Value=援军抵达倒计时:
 
 [SCRIPT:EP1_S03_BOUNTY_TIMER]
 Value=Enemy Convoy Arrives In:
-Value=敌方车队抵达倒计时：
+Value=敌方车队抵达倒计时:
 
 [SCRIPT:EP1_S04_FTTANKS_SHUTDOWN]
 Value=FutureTanks Offline For:
-Value=未来坦克停机倒计时：
+Value=未来坦克停机倒计时:
 
 [SCRIPT:Info_Bears_Reveal]
 Value=Avoid Soviet War Bears, which can reveal your disguised Sudden Transport for what it really is.
@@ -28957,11 +28957,11 @@ Value=旭日帝国任务自动保存
 
 [SCRIPT:J01_COCOMMANDER_COUNTER]
 Value=Co-Commander's Final Squadrons:
-Value=合作指挥官的决胜中队：
+Value=合作指挥官的决胜中队:
 
 [SCRIPT:J01_COMMANDER_COUNTER]
 Value=Commander's Final Squadrons:
-Value=指挥官的决胜中队：
+Value=指挥官的决胜中队:
 
 [SCRIPT:J01_INFO_TANKBUSTER]
 Value=To learn more about your Tankbusters, select one and click the Unit Profile button.
@@ -29037,23 +29037,23 @@ Value=这座磁暴线圈会被伪装单位骗过。使用忍者的烟雾弹技�
 
 [SCRIPT:J01_POWERS_COUNT]
 Value=Final Squadrons Available:
-Value=可用地决胜中队：
+Value=可用地决胜中队:
 
 [SCRIPT:J02_TRANSPORT_COUNT]
 Value=Transports Total:
-Value=运输艇总数：
+Value=运输艇总数:
 
 [SCRIPT:J02_TRANSPORT_NEEDED]
 Value=Transports Needed:
-Value=需要存活运输艇：
+Value=需要存活运输艇:
 
 [SCRIPT:J02_TRANSPORT_TIMER]
 Value=Transports Arriving In:
-Value=运输艇抵达时间：
+Value=运输艇抵达时间:
 
 [SCRIPT:J03_TRANSPORT_NEEDED]
 Value=Transports Needed:
-Value=需要存活运输艇：
+Value=需要存活运输艇:
 
 [SCRIPT:J04_OBJECTIVE_1_DESC]
 Value=Thwart the Allied invaders. They are expected to attack our monuments first, then the harbors.  You must hold until our fleet returns.
@@ -29061,7 +29061,7 @@ Value=挫败盟军入侵者。预计他们会先攻击我们的纪念碑，然�
 
 [SCRIPT:J04_OBJECTIVE_1_SETUP_TIME_LEFT]
 Value=Invasion Force Arriving:
-Value=入侵部队抵达倒计时：
+Value=入侵部队抵达倒计时:
 
 [SCRIPT:J04_OBJECTIVE_3_STRUCTS_DESTROYED]
 Value=Statue destroyed!
@@ -29069,7 +29069,7 @@ Value=雕像已被摧毁！
 
 [SCRIPT:J04_OBJECTIVE_3_STRUCTS_LEFT]
 Value=Monuments Remaining:
-Value=剩余纪念碑：
+Value=剩余纪念碑:
 
 [SCRIPT:J04_OBJECTIVE_3_STRUCTS_UNDERATTACK]
 Value=Statue under attack!
@@ -29077,7 +29077,7 @@ Value=雕像遭到攻击！
 
 [SCRIPT:J04_OBJECTIVE_3_TIME_LEFT]
 Value=Fleet Arriving In:
-Value=舰队抵达时间：
+Value=舰队抵达时间:
 
 [SCRIPT:J04_OBJECTIVE_4_STRUCTS_UNDERATTACK]
 Value=Harbor UNDER ATTACK!!!
@@ -29089,7 +29089,7 @@ Value=雕像遭到攻击！
 
 [SCRIPT:J04_OBJECTIVE_4_TIME_LEFT]
 Value=Updated Fleet Arrival Time:
-Value=更新后的舰队抵达时间：
+Value=更新后的舰队抵达时间:
 
 [SCRIPT:J04_OBJECTIVE_4_TIME_RESET]
 Value=The fleet has been delayed! You must hold the line!
@@ -29101,7 +29101,7 @@ Value=超级武器纳米虫群巢穴现已可用！
 
 [SCRIPT:J05_OBJECTIVE_1_COUNTER_TEXT]
 Value=MCV Groups Remaining:
-Value=剩余移动基地车：
+Value=剩余移动基地车:
 
 [SCRIPT:J06_AUTOSAVE_OBJ0]
 Value=Rising Sun Mission Autosave
@@ -29117,11 +29117,11 @@ Value=旭日帝国任务自动保存
 
 [SCRIPT:J06_OBJ_1_MEDIA_COUNT]
 Value=Media Centers Captured:
-Value=已占领媒体中心：
+Value=已占领媒体中心:
 
 [SCRIPT:J06_TEMPTEXT_01]
 Value=Talking Head Fill In: Mission Accomplished. The people of America love their new Emperor.
-Value=发言人补充：任务完成。美国人民爱戴他们的新天皇。
+Value=发言人补充:任务完成。美国人民爱戴他们的新天皇。
 
 [SCRIPT:J06_TEMPTEXT_02]
 Value=Use the Floating Island Fortress guns to clear some space on land for your MCV.
@@ -29149,55 +29149,55 @@ Value=占领这座前线基地？
 
 [SCRIPT:J07_OBJECTIVE_CAPTURE_OUTPOSTS_COUNTER]
 Value=Forward Bases Captured:
-Value=已占领前线基地：
+Value=已占领前线基地:
 
 [SCRIPT:J07_OBJECTIVE_DEFEND_OUTPOSTS_TIMER]
 Value=Reinforcements In:
-Value=援军抵达倒计时：
+Value=援军抵达倒计时:
 
 [SCRIPT:J07_OBJECTIVE_DESTROY_RELAY_STATIONS_COUNTER]
 Value=Relay Stations Remaining:
-Value=剩余的中继站：
+Value=剩余的中继站:
 
 [SCRIPT:J07_OBJECTIVE_DESTROY_RELAY_STATIONS_TIMER]
 Value=Battle Control Terminating In:
-Value=战场控制终止倒计时：
+Value=战场控制终止倒计时:
 
 [SCRIPT:J08_OBJECTIVE_WAIT_FOR_MECHAKING_TIMER]
 Value=Shogun Executioner Arrives In:
-Value=将军刽子手抵达时间：
+Value=将军刽子手抵达时间:
 
 [SCRIPT:S01_COUNTER_BATTLESHIPS]
 Value=Battleships Remaining:
-Value=剩余战舰数：
+Value=剩余战舰数:
 
 [SCRIPT:S01_COUNTER_BATTLESHIPSREMAINING]
 Value=Battleships Remaining:
-Value=剩余战舰数：
+Value=剩余战舰数:
 
 [SCRIPT:S01_COUNTER_ENEMIES]
 Value=Enemies in Fortress:
-Value=要塞内敌人数：
+Value=要塞内敌人数:
 
 [SCRIPT:S01_COUNTER_FLAKTROOPERSBUILT]
 Value=Flak Troopers Trained:
-Value=已训练防空部队数：
+Value=已训练防空部队数:
 
 [SCRIPT:S01_COUNTER_FORTRESSHEALTH]
 Value=Fortress Armor:
-Value=要塞护甲：
+Value=要塞护甲:
 
 [SCRIPT:S01_COUNTER_NATASHAKILLS]
 Value=Natasha's Kills:
-Value=娜塔莎杀敌数：
+Value=娜塔莎杀敌数:
 
 [SCRIPT:S01_COUNTER_TROOPERS1]
 Value=Commander 1's Flak Troopers:
-Value=指挥官 1 的防空部队数：
+Value=指挥官 1 的防空部队数:
 
 [SCRIPT:S01_COUNTER_TROOPERS2]
 Value=Commander 2's Flak Troopers:
-Value=指挥官 2 的防空部队数：
+Value=指挥官 2 的防空部队数:
 
 [SCRIPT:S01_EVENT_FLEET]
 Value=The Imperial navy is here to destroy the Fortress!
@@ -29205,11 +29205,11 @@ Value=帝国海军来摧毁要塞了！
 
 [SCRIPT:S01_EVENT_MISSIONLOST]
 Value=Mission Failed: Our proud Fortress has fallen to the Empire of the Rising Sun.
-Value=任务失败：我们引以为傲的要塞已落入旭日帝国之手。
+Value=任务失败:我们引以为傲的要塞已落入旭日帝国之手。
 
 [SCRIPT:S01_EVENT_MISSIONWON]
 Value=Mission Complete: You routed the invaders and saved the city of Leningrad!
-Value=任务完成：您击溃了侵略者并拯救了列宁格勒！
+Value=任务完成:您击溃了侵略者并拯救了列宁格勒！
 
 [SCRIPT:S01_EVENT_MONEY]
 Value=The last rubles in Leningrad's treasury are yours. Recruit wisely!
@@ -29241,7 +29241,7 @@ Value=您的合作指挥官会在将要攻击的敌人上放置红色目标光�
 
 [SCRIPT:S01_HINT_BOMBARDMENT]
 Value=Suggestion from HQ: Stay out of the way of battleship bombardment.
-Value=总部建议：远离战舰轰炸区域。
+Value=总部建议:远离战舰轰炸区域。
 
 [SCRIPT:S01_HINT_BUILD]
 Value=Select the Barracks and train 5 Flak Troopers.
@@ -29301,7 +29301,7 @@ Value=娜塔莎可以游入水中，呼叫空袭攻击战舰。
 
 [SCRIPT:S01_HINT_NOMONEY]
 Value=Caution: You are low on CREDITS. You will not be able to train more units.
-Value=警告：您的资金不足，将无法继续训练部队。
+Value=警告:您的资金不足，将无法继续训练部队。
 
 [SCRIPT:S01_HINT_POWERS]
 Value=Access the Top-Secret Protocols menu and select Magnetic Satellite.
@@ -29345,11 +29345,11 @@ Value=对战舰使用磁力卫星。卫星的牵引光束可以选中并移动�
 
 [SCRIPT:S01_HINT_WAVENORTH]
 Value=Alert: Another attack wave is coming from the NORTH!
-Value=警告：另一波攻击从北方来袭！
+Value=警告:另一波攻击从北方来袭！
 
 [SCRIPT:S01_HINT_WAVESOUTH]
 Value=Alert: Another attack wave is coming from the SOUTH!
-Value=警告：另一波攻击从南方来袭！
+Value=警告:另一波攻击从南方来袭！
 
 [SCRIPT:S01_INFO_BULLFROG]
 Value=To learn more about the Bullfrog, select it and click the Unit Profile button.
@@ -29389,11 +29389,11 @@ Value=您的步兵已进驻此建筑。选中它并使用撤离建筑指令让�
 
 [SCRIPT:S01_LOSS_NATASHAKILLED]
 Value=Mission Failed: Natasha was defeated.
-Value=任务失败：娜塔莎阵亡。
+Value=任务失败:娜塔莎阵亡。
 
 [SCRIPT:S01_LOSS_UNITSKILLED]
 Value=Mission Failed: All your units were defeated and you do not have sufficient credits to train more.
-Value=任务失败：您的所有部队被歼灭，而您没有足够的资金训练更多部队。
+Value=任务失败:您的所有部队被歼灭，而您没有足够的资金训练更多部队。
 
 [SCRIPT:S01_TEMP_EALAPRESENTS]
 Value=Electronic Arts Los Angeles Presents
@@ -29401,11 +29401,11 @@ Value=美国艺电洛杉矶出品
 
 [SCRIPT:S01_TEMP_REDALERT3]
 Value=Command & Conquer Red Alert 3
-Value=命令与征服：红色警戒3
+Value=命令与征服:红色警戒3
 
 [SCRIPT:S01_TIMER_MAGSAT]
 Value=Magnetic Satellite Uplink:
-Value=磁力卫星连接倒计时：
+Value=磁力卫星连接倒计时:
 
 [SCRIPT:S02_AUTOSAVE_01]
 Value=S02 - Orbital Launch
@@ -29425,7 +29425,7 @@ Value=在帝国基地车逃跑之前摧毁它！
 
 [SCRIPT:S02_EVENT_MISSIONFAILED]
 Value=Mission Failed: Natasha was defeated.
-Value=任务失败：娜塔莎阵亡。
+Value=任务失败:娜塔莎阵亡。
 
 [SCRIPT:S02_HINT_ANTIAIR]
 Value=You'll need an anti-air unit to take down those Rocket Angels.
@@ -29473,7 +29473,7 @@ Value=这些坦克能够轻易地摧毁您的镰刀机甲。利用磁力卫星�
 
 [SCRIPT:S02_LOSS_MCVESCAPE]
 Value=Mission Failed: the Imperial MCV has escaped.
-Value=任务失败：帝国移动基地车已逃脱。
+Value=任务失败:帝国移动基地车已逃脱。
 
 [SCRIPT:S02_TEMP_BEARTRANSFER]
 Value=War Bears are now yours to command!
@@ -29485,7 +29485,7 @@ Value=防空部队现在听从您的指挥！
 
 [SCRIPT:S02_TEMP_LOSE]
 Value=Mission Failed: a Commander's forces have been defeated.
-Value=任务失败：一位指挥官的部队被歼灭。
+Value=任务失败:一位指挥官的部队被歼灭。
 
 [SCRIPT:S02_TEMP_PART01_DESC]
 Value=Welcome to decommissioned military village Krasna-45.
@@ -29505,7 +29505,7 @@ Value=磁暴部队现在听从您的指挥！
 
 [SCRIPT:S02_TEMP_WIN]
 Value=Mission Accomplished: the Empire was drawn out and eliminated from this area.
-Value=任务完成：帝国军被引出并已从该区域彻底清除。
+Value=任务完成:帝国军被引出并已从该区域彻底清除。
 
 [SCRIPT:S03_HINT_MCV_UNPACK]
 Value=Use your MCV's Unpack ability to deploy it into a Construction Yard.
@@ -29549,11 +29549,11 @@ Value=双刃直升机已解锁。这些武装直升机拥有强大的对地攻�
 
 [SCRIPT:S05_TIMER_DATA_SCRAMBLED]
 Value=Data Scrambled In:
-Value=数据收集时间：
+Value=数据收集时间:
 
 [SCRIPT:S05_TIMER_HOLD_LAB]
 Value=Data Transfered In:
-Value=数据传送时间：
+Value=数据传送时间:
 
 [SCRIPT:S07_AUTOSAVE_OBJ2]
 Value=Soviet Mission Autosave
@@ -29569,11 +29569,11 @@ Value=天启坦克是世界上最强大的坦克。使用其磁力鱼叉技能�
 
 [SCRIPT:S08_EMISSARY_ARRIVAL]
 Value=Allied Emissary Arrives In:
-Value=盟军使者抵达倒计时：
+Value=盟军使者抵达倒计时:
 
 [SCRIPT:S08_TIMER_VACUUM_BOMB]
 Value=Vacuum Imploder Fires In:
-Value=真空内爆弹发射倒计时：
+Value=真空内爆弹发射倒计时:
 
 [SCRIPT:S09_BONUSOBJECTIVE_01_DESC]
 Value=Capture the New York Stock Exchange
@@ -29609,11 +29609,11 @@ Value=S09 - 自由女神像
 
 [SCRIPT:S09_FAILTEXT_ENGINEERS]
 Value=ABORT MISSION: There are not enough engineers to repair the captured MCVs.
-Value=任务失败：没有足够的工兵修复已占领的移动基地车。
+Value=任务失败:没有足够的工兵修复已占领的移动基地车。
 
 [SCRIPT:S09_FAILTEXT_UNITS]
 Value=ABORT MISSION: All units and structures lost.
-Value=任务失败：全部作战单位与建筑已损失殆尽。
+Value=任务失败:全部作战单位与建筑已损失殆尽。
 
 [SCRIPT:S09_HINT_EXPANDTOFTB]
 Value=Expand to the ore mines near Ft. Bradley.
@@ -29873,7 +29873,7 @@ Value=我能耍耍他们。
 
 [SCRIPT:Y01_FILE_01]
 Value=Secret File Discovered: "Not Safe for Work"
-Value=发现秘密档案：“上班勿看”
+Value=发现秘密档案:“上班勿看”
 
 [SCRIPT:Y01_FILE_002]
 Value=Their minds are weak; they can be lured.
@@ -29881,7 +29881,7 @@ Value=他们的心智很脆弱；能够引诱他们。
 
 [SCRIPT:Y01_FILE_02]
 Value=Secret File Discovered: "Hell of a Mess"
-Value=发现秘密档案：“混乱炼狱”
+Value=发现秘密档案:“混乱炼狱”
 
 [SCRIPT:Y01_FILE_003]
 Value=I can protect myself with a psychic shield.
@@ -29889,7 +29889,7 @@ Value=我可以用超能波护盾保护自己。
 
 [SCRIPT:Y01_FILE_03]
 Value=Secret File Discovered: "The Dominatrix"
-Value=发现秘密档案：“支配者”
+Value=发现秘密档案:“支配者”
 
 [SCRIPT:Y01_FILE_004]
 Value=I can slam objects and vehicles with my mind.
@@ -29897,19 +29897,19 @@ Value=我可以运用心智破坏物体和载具。
 
 [SCRIPT:Y01_FILE_04]
 Value=Secret File Discovered: "Mind Over Matter"
-Value=发现秘密档案：“以念御物”
+Value=发现秘密档案:“以念御物”
 
 [SCRIPT:Y01_FILE_05]
 Value=Secret File Discovered: "I'm Rubber, You're Glue"
-Value=发现秘密档案：“以彼之道，还施彼身”
+Value=发现秘密档案:“以彼之道，还施彼身”
 
 [SCRIPT:Y01_FILE_06]
 Value=Secret File Discovered: "Do You Remember Love"
-Value=发现秘密档案：“爱的记忆”
+Value=发现秘密档案:“爱的记忆”
 
 [SCRIPT:Y01_FILE_07]
 Value=Secret File Discovered: "Trauma Center"
-Value=发现秘密档案：“创伤中心”
+Value=发现秘密档案:“创伤中心”
 
 [SCRIPT:Y01_INFO_ATTACK]
 Value=Right-click on enemies to crush them.
@@ -29917,7 +29917,7 @@ Value=左键点选敌人，粉碎他们。
 
 [SCRIPT:Y01_INFO_BURST]
 Value=New Talent: Tap the 1 key to use BURST to kill surrounding infantry.
-Value=新天赋：按下1键利用爆破杀死周围的步兵。
+Value=新天赋:按下1键利用爆破杀死周围的步兵。
 
 [SCRIPT:Y01_INFO_CAMERA]
 Value=Camera controls disabled. Just worry about Yuriko.
@@ -29943,7 +29943,7 @@ Value=继续前行，寻找能够清除挡门垃圾的超能波能力。
 Value=New Talent: Tap the 2 key to DOMINATE infantry units.
 ValueLine2=
 ValueLine3=Left-click on target units.
-Value=新天赋：按下2键支配步兵部队。
+Value=新天赋:按下2键支配步兵部队。
 ValueLine2=
 ValueLine3=左键点击目标部队。
 
@@ -29970,13 +29970,13 @@ Value=受到致命重伤时，百合子会自动恢复一定量生命值。
 
 [SCRIPT:Y01_INFO_SHIELD]
 Value=New Talent: Tap the 3 key to use SHIELD to reflect attacks.
-Value=新天赋：按下3键使用护盾反制攻击。
+Value=新天赋:按下3键使用护盾反制攻击。
 
 [SCRIPT:Y01_INFO_SLAM]
 Value=New Talent: Tap the 4 key to SLAM objects and smaller units into foes.
 ValueLine2=
 ValueLine3=Left-click on objects, then left-click target area.
-Value=新天赋：按下4键将物体和小型部队抛入敌人中。
+Value=新天赋:按下4键将物体和小型部队抛入敌人中。
 ValueLine2=
 ValueLine3=左键点击物体，然后左键点击目标区域。
 
@@ -29986,119 +29986,119 @@ Value=摧毁这座电梯可阻止敌方援军前来支援。
 
 [SCRIPT:Y01_INFO_UPGRADE]
 Value=New Talent: Tap the ~ key to choose a PSIONIC TALENT.
-Value=新天赋：按下~键选择一项超能波天赋。
+Value=新天赋:按下~键选择一项超能波天赋。
 
 [SCRIPT:Y02_FILE_08]
 Value=Secret File Discovered: "One Sick Freak"
-Value=发现秘密档案：“变态怪胎”
+Value=发现秘密档案:“变态怪胎”
 
 [SCRIPT:Y02_FILE_09]
 Value=Secret File Discovered: "Hush Little Baby"
-Value=发现秘密档案：“睡吧，小宝贝”
+Value=发现秘密档案:“睡吧，小宝贝”
 
 [SCRIPT:Y02_FILE_10]
 Value=Secret File Discovered: "The Dregs of Leningrad"
-Value=发现秘密档案：“列宁格勒余孽”
+Value=发现秘密档案:“列宁格勒余孽”
 
 [SCRIPT:Y02_FILE_11]
 Value=Secret File Discovered: "Cold Storage"
-Value=发现秘密档案：“冷冻仓库”
+Value=发现秘密档案:“冷冻仓库”
 
 [SCRIPT:Y02_FILE_12]
 Value=Secret File Discovered: "Panned and Scanned"
-Value=发现秘密档案：“裁切扫描”
+Value=发现秘密档案:“裁切扫描”
 
 [SCRIPT:Y02_FILE_13]
 Value=Secret File Discovered: "Cold Hard Cash"
-Value=发现秘密档案：“冷冰冰的钞票”
+Value=发现秘密档案:“冷冰冰的钞票”
 
 [SCRIPT:Y02_FILE_14]
 Value=Secret File Discovered: "The Eagle Has Landed"
-Value=发现秘密档案：“老鹰着陆”
+Value=发现秘密档案:“老鹰着陆”
 
 [SCRIPT:Y02_FILE_15]
 Value=Secret File Discovered: "Contract Negotiations"
-Value=发现秘密档案：“合同谈判”
+Value=发现秘密档案:“合同谈判”
 
 [SCRIPT:Y02_FILE_16]
 Value=Secret File Discovered: "The Tokyo Toll"
-Value=发现秘密档案：“东京丧钟”
+Value=发现秘密档案:“东京丧钟”
 
 [SCRIPT:Y02_FILE_17]
 Value=Secret File Discovered: "Rebel Son of the Rising Sun"
-Value=发现秘密档案：“帝国逆子”
+Value=发现秘密档案:“帝国逆子”
 
 [SCRIPT:Y02_FILE_18]
 Value=Secret File Discovered: "Cold Hard Cash"
-Value=发现秘密档案：“白花花的钞票”
+Value=发现秘密档案:“白花花的钞票”
 
 [SCRIPT:Y02_FILE_19]
 Value=Secret File Discovered: "A Woman's Right to Choose"
-Value=发现秘密档案：“女抉择权”
+Value=发现秘密档案:“女抉择权”
 
 [SCRIPT:Y03_FILE_20]
 Value=Secret File Discovered: "Bows and Accessories"
-Value=发现秘密档案：“弓与配件”
+Value=发现秘密档案:“弓与配件”
 
 [SCRIPT:Y03_FILE_21]
 Value=Secret File Discovered: "Big Girls Don't Cry"
-Value=发现秘密档案：“大女孩不会哭”
+Value=发现秘密档案:“大女孩不会哭”
 
 [SCRIPT:Y03_FILE_22]
 Value=Secret File Discovered: "Without Honor and Humanity"
-Value=发现秘密档案：“泯灭人性”
+Value=发现秘密档案:“泯灭人性”
 
 [SCRIPT:Y03_FILE_23]
 Value=Secret File Discovered: "List of Known Side Effects"
-Value=发现秘密档案：“副作用清单”
+Value=发现秘密档案:“副作用清单”
 
 [SCRIPT:Y03_FILE_24]
 Value=Secret File Discovered: "Everybody Loves Yuriko"
-Value=发现秘密档案：“人人都爱百合子”
+Value=发现秘密档案:“人人都爱百合子”
 
 [SCRIPT:Y03_FILE_25]
 Value=Secret File Discovered: "Damage Report"
-Value=发现秘密档案：“损失报告”
+Value=发现秘密档案:“损失报告”
 
 [SCRIPT:Y03_FILE_26]
 Value=Secret File Discovered: "Off the Charts"
-Value=发现秘密档案：“超乎想像”
+Value=发现秘密档案:“超乎想像”
 
 [SCRIPT:Y03_FILE_27]
 Value=Secret File Discovered: "Buying in Bulk"
-Value=发现秘密档案：“大宗采购”
+Value=发现秘密档案:“大宗采购”
 
 [SCRIPT:Y03_FILE_28]
 Value=Secret File Discovered: "Under the Table"
-Value=发现秘密档案：“台面下”
+Value=发现秘密档案:“台面下”
 
 [SCRIPT:Y03_FILE_29]
 Value=Secret File Discovered: "The Russian Genius"
-Value=发现秘密档案：“苏联天才”
+Value=发现秘密档案:“苏联天才”
 
 [SCRIPT:Y03_FILE_30]
 Value=Secret File Discovered: "A Very Special Occasion"
-Value=发现秘密档案：“特殊场合”
+Value=发现秘密档案:“特殊场合”
 
 [SCRIPT:Y03_FILE_31]
 Value=Secret File Discovered: "Gone But Not Forgotten"
-Value=发现秘密档案：“逝去难忘”
+Value=发现秘密档案:“逝去难忘”
 
 [SCRIPT:Y03_FILE_32]
 Value=Secret File Discovered: "Recently Deceased"
-Value=发现秘密档案：“近期死者”
+Value=发现秘密档案:“近期死者”
 
 [SCRIPT:Y03_FILE_33]
 Value=Secret File Discovered: "Escape Plans"
-Value=发现秘密档案：“逃亡计划”
+Value=发现秘密档案:“逃亡计划”
 
 [SCRIPT:Y03_FILE_34]
 Value=Secret File Discovered: "Weird Science"
-Value=发现秘密档案：“怪奇科学”
+Value=发现秘密档案:“怪奇科学”
 
 [SCRIPT:Y03_INFO_INHIBITOR]
 Value=Caution -- The Psychic Inhibitor prevents Yuriko from using her Psionic Talents.
-Value=注意：超能波抑制器会阻止百合子使用她的超能波能力。
+Value=注意:超能波抑制器会阻止百合子使用她的超能波能力。
 
 [SCRIPT:Y03_INFO_NE]
 Value=Security & Administration Sector
@@ -30234,7 +30234,7 @@ Value=friend <玩家名> - 邀请一位玩家加入您的好友列表。
 
 [SLASH_HELP:GENERALHELP]
 Value=Available commands are: help, tell, reply, friend, ignore, me, players, afk
-Value=可用命令有：help, tell, reply, friend, ignore, me, players, afk
+Value=可用命令有:help, tell, reply, friend, ignore, me, players, afk
 
 [SLASH_HELP:HELP]
 Value=help <command> - Displays more information about the selected command.
@@ -30250,7 +30250,7 @@ Value=invite <玩家名> - 邀请一位玩家加入您所在的比赛房间。
 
 [SLASH_HELP:ME]
 Value=me  - Use to send an emote. For example, try '/me thirsts for battle!'
-Value=me - 发送表情动作。例如：/me thirsts for battle!！
+Value=me - 发送表情动作。例如:/me thirsts for battle!！
 
 [SLASH_HELP:PLAYERS]
 Value=players - Display number of players online.
@@ -31766,7 +31766,7 @@ Value=[1.3:4.2]欢迎回到我们关于欧米伽百合子的特别报道。[5.7:
 
 [SUBTITLE:YFS03_01]
 Value=[1.3:4.7]Allied military officials still refuse to comment on the disastrous events[6:1.9]which followed Yuriko's detainment.[8.1:4.1]We do know this though… Yuriko Omega was nowhere to be found[12.3:1.9]and is now assumed to be on the run.[14.7:1]Where could she go?[16.1:2]If the military knows, they aren't saying.[18.4:1.8]One thing is certain, however.[20.2:3.9]Sometime, somewhere, she will reveal herself.[24.1:4.3]And when she does, hundreds, thousands, possibly millions[28.4:2.2]will be in very grave danger.
-Value=[1.3:6.6]盟军官员至今仍拒绝就百合子被关押后发生的灾难性事件作出评论。[8.1:6]我们目前只知道：欧米伽百合子下落不明，据信已在逃。[14.7:1]她能去哪儿？[16.1:2]军方就算知道，也不会透露。[18.4:1.8]但有一件事可以确定。[20.2:3.9]她终将在某个时刻、某个地点现身。[24.1:6.5]当她再度现身时，成百上千、乃至数百万人将面临极大的危险。
+Value=[1.3:6.6]盟军官员至今仍拒绝就百合子被关押后发生的灾难性事件作出评论。[8.1:6]我们目前只知道:欧米伽百合子下落不明，据信已在逃。[14.7:1]她能去哪儿？[16.1:2]军方就算知道，也不会透露。[18.4:1.8]但有一件事可以确定。[20.2:3.9]她终将在某个时刻、某个地点现身。[24.1:6.5]当她再度现身时，成百上千、乃至数百万人将面临极大的危险。
 
 [SUBTITLE:YFS03_02]
 Value=[31.9:2.6]So do they think she's trying to get back to Japan?
@@ -31878,7 +31878,7 @@ Value=x%d
 
 [TACTICALHUD:SELECTIONUPGRADESLABEL]
 Value=Upgrades:
-Value=升级：
+Value=升级:
 
 [TEAM:0]
 Value=-
@@ -31938,7 +31938,7 @@ Value=%d 秒
 
 [TIMER:A02_TIMER_PORTS_EXPLODE]
 Value=Ports Explode In:
-Value=港口引爆时间：
+Value=港口引爆时间:
 
 [TOOLTIP:ABILITYCOST]
 Value=Power acquired at Level: %d
@@ -32006,7 +32006,7 @@ Value=返回上一菜单
 
 [TOOLTIP:BATTLESFOUGHT]
 Value=Battles Fought: %d
-Value=参战次数：%d
+Value=参战次数:%d
 
 [TOOLTIP:BEHINDBUILDING]
 Value=Toggle showing units behind buildings.  On can be slower
@@ -32082,12 +32082,12 @@ Value=单击取消当前操作
 
 [TOOLTIP:CHATPLAYERINFO]
 Value=Region: %ls%d wins/%d losses1v1 rank: %ls2v2 rank: %ls1v1 clan rank: %ls2v2 clan rank: %ls
-Value=区域：%ls
+Value=区域:%ls
 ValueLine2=胜利%d场/战败%d场
-ValueLine3=1v1 排名：%ls
-ValueLine4=2v2 排名：%ls
-ValueLine5=2v2 战队排名：%ls
-ValueLine6=2v2 战队排名：%ls
+ValueLine3=1v1 排名:%ls
+ValueLine4=2v2 排名:%ls
+ValueLine5=2v2 战队排名:%ls
+ValueLine6=2v2 战队排名:%ls
 
 [TOOLTIP:CHATWINDOW]
 Value=Type and press Enter in the Text Entry box below to send messages to this Chat window.  Other players can read and respond
@@ -32139,7 +32139,7 @@ Value=当前类别可用的命令
 
 [TOOLTIP:COMMANDPOINTS]
 Value=Command Points: %d
-Value=指挥点数：%d
+Value=指挥点数:%d
 
 [TOOLTIP:COMMUNICATORBUTTON]
 Value=Contact your buddies
@@ -32155,11 +32155,11 @@ Value=将选中的录像文件复制到您的桌面
 
 [TOOLTIP:COST]
 Value=Cost: %d
-Value=费用：%d
+Value=费用:%d
 
 [TOOLTIP:COSTFREE]
 Value=Cost: FREE
-Value=费用：免费
+Value=费用:免费
 
 [TOOLTIP:CRATES]
 Value=Bonus crates
@@ -32216,11 +32216,11 @@ Value=左键单击以输入文字。
 
 [TOOLTIP:ENERGYMETERCONSUMPTIONLABEL]
 Value=Energy Consumption:
-Value=电力消耗：
+Value=电力消耗:
 
 [TOOLTIP:ENERGYMETERPRODUCTIONLABEL]
 Value=Energy Production:
-Value=电力生产：
+Value=电力生产:
 
 [TOOLTIP:ENTERPASSWORD]
 Value=Please enter a password
@@ -32252,15 +32252,15 @@ Value=游戏接受
 
 [TOOLTIP:GAMEINFOGAMENAME]
 Value=Game Name: %s
-Value=游戏名称：%s
+Value=游戏名称:%s
 
 [TOOLTIP:GAMEINFOLADDERNAME]
 Value=Ladder: %s
-Value=排名赛：%s
+Value=排名赛:%s
 
 [TOOLTIP:GAMEINFOMAP]
 Value=Map: %sPlayers:
-Value=地图：%s玩家：
+Value=地图:%s玩家:
 
 [TOOLTIP:GAMEINFOPLAYER]
 Value=%s (%d/%d)
@@ -32352,7 +32352,7 @@ Value=选择您想参与的排名赛
 
 [TOOLTIP:LADDERNAME]
 Value=Ladder: %s
-Value=排名：%s
+Value=排名:%s
 
 [TOOLTIP:LADDERRANKUNAVAILABLE]
 Value=--
@@ -32448,11 +32448,11 @@ Value=您可以观看自动匹配为您搜索最佳对手的过程。祝您好�
 
 [TOOLTIP:MAXHEALTH]
 Value=Health: %d
-Value=生命值：%d
+Value=生命值:%d
 
 [TOOLTIP:MELEEDAMAGE]
 Value=Melee Damage: %d
-Value=近战伤害：%d
+Value=近战伤害:%d
 
 [TOOLTIP:MISSION1]
 Value=
@@ -32972,7 +32972,7 @@ Value=调整游戏音乐的音量。
 
 [TOOLTIP:OPTIONS/TOOLTIPONLINEIP]
 Value=Advanced users: If you have multiple network interfaces, choose between IP addresses
-Value=高级用户：如果您有多张网卡，请在IP地址之间进行选择。
+Value=高级用户:如果您有多张网卡，请在IP地址之间进行选择。
 
 [TOOLTIP:OPTIONS/TOOLTIPPARTICLECAP]
 Value=Modify the number of particles allowed on screen at one time
@@ -33068,7 +33068,7 @@ Value=创建游戏的玩家名称。
 
 [TOOLTIP:PLAYERINFO]
 Value=Region: %s%d wins/%d losses
-Value=地区：%s
+Value=地区:%s
 ValueLine2=%d胜/%d负
 
 [TOOLTIP:PLAYERSETTING]
@@ -33085,7 +33085,7 @@ Value=《命令与征服3》当前在线玩家列表
 
 [TOOLTIP:PREREQUISITEHEADING]
 Value=Requires:
-Value=要求：
+Value=要求:
 
 [TOOLTIP:PROFILEDPLAYER]
 Value=%s
@@ -33145,11 +33145,11 @@ Value=退出到游戏菜单。
 
 [TOOLTIP:RANGEDDAMAGE]
 Value=Ranged Damage: %d
-Value=远程伤害：%d
+Value=远程伤害:%d
 
 [TOOLTIP:RANK]
 Value=Level: %d / Maximum Level: %d
-Value=等级：%d / 最高等级：%d
+Value=等级:%d / 最高等级:%d
 
 [TOOLTIP:REDUCEDCOLOR]
 Value=Improves performance but reduces visual quality
@@ -33189,11 +33189,11 @@ Value=单击以保存您正在进行的游戏。
 
 [TOOLTIP:SCIENCECOST]
 Value=Cost: %d
-Value=费用：%d
+Value=费用:%d
 
 [TOOLTIP:SCIENCECOSTUNAVAILABLE]
 Value=Cost: Unavailable
-Value=费用：不可用
+Value=费用:不可用
 
 [TOOLTIP:SCIENCEDISABLED]
 Value=Power unavailable
@@ -33237,7 +33237,7 @@ Value=切换是否在游戏中显示3D阴影。关闭可提升运行效率。
 
 [TOOLTIP:SHORTCUT]
 Value=Shortcut: %s
-Value=快捷键：%s
+Value=快捷键:%s
 
 [TOOLTIP:SKIRMISH]
 Value=Enter Skirmish setup menu
@@ -33349,12 +33349,12 @@ Value=选择您的扬声器配置。
 
 [TOOLTIP:STAGINGPLAYERINFO]
 Value=Region: %ls%d wins/%d losses1v1 rank: %ls2v2 rank: %ls1v1 clan rank: %ls2v2 clan rank: %ls
-Value=区域：%ls
+Value=区域:%ls
 ValueLine2=%d 胜利次数/%d 战败次数
-ValueLine3=1v1 排名：%ls
-ValueLine4=2v2 排名：%ls
-ValueLine5=1v1 战队排名：%ls
-ValueLine6=2v2 战队排名：%ls
+ValueLine3=1v1 排名:%ls
+ValueLine4=2v2 排名:%ls
+ValueLine5=1v1 战队排名:%ls
+ValueLine6=2v2 战队排名:%ls
 
 [TOOLTIP:STARTGAME]
 Value=Begin a multiplayer game
@@ -33386,7 +33386,7 @@ Value=中止您当前的搜索。
 
 [TOOLTIP:STRUCTUREVETERANCY]
 Value=Structure Level Required: %s
-Value=所需建筑等级：%s
+Value=所需建筑等级:%s
 
 [TOOLTIP:SUPERWEAPONS]
 Value=Super Weapons.  Particle Cannon, Nuclear Missile, etc.
@@ -34750,7 +34750,7 @@ Value=测试基地升级
 
 [UPGRADE:UPGRADECOMPLETE]
 Value=Upgrade Complete: %s
-Value=升级完成：%s
+Value=升级完成:%s
 
 [UPGRADENAME:ALLIEDTECH2]
 Value=Heightened Clearance
