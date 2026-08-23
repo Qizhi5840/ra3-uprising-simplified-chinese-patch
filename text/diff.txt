@@ -21204,7 +21204,7 @@ Attack Allied Base
 
 [HOTSPOT:S06_HOTSPOT_3_DESC]
 Orders your Co-Commander to focus attacks on General Krukov's base.
-命令您的合作指挥官集中攻击库克夫将军的基地。
+命令您的合作指挥官集中攻击库可夫将军的基地。
 
 [HOTSPOT:S06_HOTSPOT_3_TITLE]
 Attack Krukov's Base
@@ -21212,7 +21212,7 @@ Attack Krukov's Base
 
 [HOTSPOT:S06_HOTSPOT_4_DESC]
 Orders your Co-Commander to concentrate on taking out the Allies' main air base.
-命令您的指挥官集中攻击盟军的主要空军基地。
+命令您的合作指挥官集中攻击盟军的主要空军基地。
 
 [HOTSPOT:S06_HOTSPOT_4_TITLE]
 Attack Von Esling Airbase
